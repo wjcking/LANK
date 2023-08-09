@@ -19,14 +19,15 @@ r.l
 l.sks
   //s.t.z jxs pst.knsh
   //rikes.html
-  //rcs.ets.nks_mdv
+  kst_ra
+  rcs.ets.nks_mdv
   thr^ra.zh^eu:
     zh.kt.en^u.c //元支 enstruct
     rv^n.th^s
     rz^n //兀支 riz beo k(iso)k flip  
   tzh.rn.ch^ew//元直
   //l.h(helix).c
-  rlk^c.wickal:refabric.rebacca:linr  
+  rlk^c.wsk_c:fbk_r  
   y// rl~i=h  r=lcn~u
 l.aks
 

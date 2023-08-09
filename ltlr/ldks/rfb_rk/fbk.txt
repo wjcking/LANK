@@ -1,7 +1,7 @@
 ﻿Reform:Jide:Kind.Komet //Meyluok.Tricycle,gyj,chaos-komet.html
 
 Refural:Refabric:Refabrical(Refablik) // Ryfabrick
-  Rilic:Jilis|Jxka|Jaks
+  Rilic:Jilis|Jxka|Jaks.Jkb.jlb_b
   Ripprt
   Ribberk
 

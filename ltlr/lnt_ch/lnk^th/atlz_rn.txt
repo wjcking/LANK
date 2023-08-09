@@ -6,25 +6,25 @@
 abt^er.ats_e:bsk_o_l:bsmt.ltlr
   bk.rk.brk //pix.l sl_sh smt
     zk
-    sk^ar_eo.radk_eoul:sund_o
+    sk^are.sd
 
-    rk:frm //dgrm_a fl_ow grfs^ph  
+    rk:frm 
     rbk
     
-    dkbt     
+    //dkbt     
     //duqk_w.tx^k
-    //dr.dsn_ai.dak.bsk_o //kamsk
+    //dr.dsn_ai.dak.bsk_o
+    //kamsk
   pk_chr.trk^tx:pbqd_eor
 
   vsk:vsd
-  vk:wk_ri
-    kat.krkt.bsd //wabst
-    lak_i
-  mka //Imaged Ayedraw
+  vk:vrs^kd
 
+  kat.krk^de
+  mka
 lsk_c:nks:abl_a.smtk:dar_y
 
-btm
+btn
 krls.lsk.vsk.avl_on//afsk.fks.fkx
   mka
     msk
@@ -45,6 +45,6 @@ rsk_c_awr:lk_ao_wo:rk_eo
     bsk_ol.rcs.msd.bsk_o.a
     kln kmr^y
 
-    ltlr.ksat:mchr
+    ltlr.kst^a:mth
   sdy_a^l
 abt

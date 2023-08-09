@@ -54,9 +54,9 @@ Karblend:Paskeful.Sequalent.Analyticals
     ltfs
       ftn_a:fag_n:chaf_ueo
 
-      kapt_n^k
+      kpt_n^k
         nks_e
-      be_o
+      bsk
     dkbt
 
   [Kar]Karrect.Textural.StringStart.Kamit

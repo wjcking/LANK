@@ -8,24 +8,28 @@ lt^s
   rl.hw.chf^s
 lr
 
-krls.bsk_ol 
-  j
+fks.rtl_d
+f.rl.k
+  n:hum:s j l
+a
+
+jxs
+j
     v.y
     x
-  l
-  //pend_a accessory
+l
+krls.bsk_ol
+	jxs.jts
+	//accessory
+  kkt^an:pend 
   aks.ats
+
   lks_ln
     skr:krd^ktr_d
-  fks.ln //fnc_
+  fks.ln //fnc
 
   rxs_e_ks
   lks^a
 
   tgs
 kldr
-
-fks.rtl_d
-f.rl.k
-  n:hum:s j l
-a

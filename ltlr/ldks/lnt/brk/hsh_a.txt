@@ -1,9 +1,7 @@
-﻿
-//shi.ags.a_he 
-//Relic(J:i,c,ea)Rebacca
-//Youne
-//  Leouen.Alone.Argus.Inudunisha //Yangen
-//Eyeon.shehren
+﻿rft
+args.dsh_lnd.lxa //Yangen
+
+
 十沙河:砂石柯.刻两河
     匹河波.白小折 //河少泊
     皮和泊.少白何
@@ -18,6 +16,6 @@
     少巴柯
   沙哈巴//Argus
   沙合伦 洛迫 不泊 //小河公主
-  
-  阿厄告河马.多维.奥马哈 //Agie zhy ki ji Akjgie Z fan fern fun Medes.Enges.Duotes
+   //Agie zhy ki ji Akjgie Z fan fern fun Medes.Enges.Duotes
+  阿河马_厄告.维丝多.奥马哈
 沙合口.元木人

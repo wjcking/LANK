@@ -4,7 +4,7 @@
 *层次 中生代
 *化石 新生代
 *
-*GeologicalTimeTable
+*gzh.mtk.tlm.abt
 *https://en.wikipedia.org/wiki/Geologic_time_scale
 *Ayelament
 *element.html

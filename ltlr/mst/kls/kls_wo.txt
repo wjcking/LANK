@@ -19,11 +19,11 @@ ftn_an.rbk.unvs_r
   annd_wo^no.wst_n
 hlgt.kl^y.skr
 
-lwsk.ladnk.kal_er:helak
-  es^s_aoy
-  wes.gwy_a.glsh_e
+lwsk.ldnk.kal_er:helak
+  //es^s_aoy
+  wgs
     lar_i
     laot
     fas_eou:sfs_ra
-  sau_y_l
+  gsh_le
 slk_w

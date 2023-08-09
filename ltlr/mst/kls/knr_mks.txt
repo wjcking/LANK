@@ -26,7 +26,7 @@ ltlr:kn_r:kbnr
 kmt.mks.pskf.ats_wm.pst
 rtl.fks
 //lank.lsk^d.f.slk.afk:kmt.tzk
-//wes:angles_k korners^c:lady may flat^is_z
+//wgs:korners^c angles_k:lady may flat^is_z
 //  mw_m^j^
 //wms.nlk_s_m.flt_ast.dk
 fk.a:kat_e^d //nk_an:annk

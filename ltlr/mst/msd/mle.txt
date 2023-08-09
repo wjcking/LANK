@@ -1,7 +1,7 @@
 ﻿/*
 *面
-*人来平行面
 *水及(交)类人仨 来 台
+*人来平行面
 *
 *开工付思克
 * 丝可来特
@@ -10,7 +10,7 @@
 *立-面
 *多维面@方 力 (体)
 */
-fln //Felanc  
+fln.c
   mit:snt //sld^a
   mik.ary    
 flk
@@ -26,14 +26,15 @@ ilk //E
 
 //贝欧丝克:唉可仨丝[K]伯区司卡 没卅地丝
 //艾昂尼克
-kst-bsd.rnl-lf
-iks:msd-s //its-ee
-msd.mad.isk-aksas.s.i:mts
+kst.bst
+bsk^ol
 
+/***没 立***/
+ist.iank
 its.lank
 
-//立-面
-//kst:flt.kl_ar
+//立 面 么
+kst:flt.ksl^z
 f.ks
   tim
   mik
@@ -42,7 +43,7 @@ l:tak_sh_wo
 //多维面@立面,方面 (体) 凯斯特 卡丝他 区分:平行面维 
 ist.k.d:ets:t.d
 mch.st
-  knm.i
+  kna.mi
   
   mid
   nde //安的 恩得

@@ -21,8 +21,8 @@ lst_l.slt_al
   km^tx
     //ktln4
     msd.mls.mgt.sld_a.rmw
-      pskf3.kent:7t 1x l_y z zh
-      pskf4.kmk^t:
+      krf3.kent:7t 1x l_y z zh
+      klf4.kmk^t:
     slk.ank.rsk
   kmt:kat_e^d
 alk

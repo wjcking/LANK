@@ -4,8 +4,8 @@
 */
 brts_e^d:abrs.brts.args
   
-  lnck_t     
-  kln.rpls.dspl:ltlr:lvsh:lsn^t
+  lnk^th
+  kln.pls_dr.ltlr:asak:lsa^t
   ~kr^tk_ea^l //Add Paskeful.PiorityFirstly.Index
 
     lck^g.kamsk_an.lnchmt_rer_ar
