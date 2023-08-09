@@ -1,22 +1,22 @@
 ﻿dkbt.ltlr.bd_ao.pat_r:pash_or:pat_keuo_l
-  l_n.ktkt_an
-  br_ln.lck
-  l_yr.lsn_enr
+  ln.ktk_ant
+    br_ln.lck
+  lyr.lsa //lsn_enr
 
   //NoseDragout
   nud_o
   bk_i.nk_we.and_no 
-    samtk_y.arlnt_eon
-    irfld.nk //slaw-spt_i
+    smtk.mdr
+    fld.nk //slaw-spt_i
   mas_aou.sbk_p
 
-  hand.rat_wr
-  bd_ao.zhsch_t_g
+  hnd.rsk
+  bda^o.lnt.cht
 bts_er_d.lsk^c //Transplant
 
 chf_wa_ou:mfs_n//truffle
 fag
-  gus:tub  
+  gus:tub
 fug
 
 /*

@@ -18,25 +18,25 @@ dpat_r:kpt_an:hlkt:kb_an^g
 
     int //int:wid SieuWiud.Elekchanik.Parsheu
     pit //plagin,pint
-    -lan.lke.kln
-    eot //intfas
+    -lne.lke.kln
+    aot //ltfs.dpk.lnt.chk
     pot //port
   bmd
 
   //Mainboard.Aberis.Abeds.BaodeManinlys
-  kln-lk.ln.aet_o
+  kln.lk_ln
   int[bmd]pit
   -cpu.pit:Centrual.Process.Unit
-      jmp //line
-      pci 
+      jmp //lne_ln.dpk.vts
+      pcl
       com
-    mem:Memory
-    ado:Audio
-    hdk:Hardisk        
-    vdo:Video
+    mem
+    ado
+    hdk
+    vdo
   pat.rdf:fug 
    
-  dpat_oe:rmw
+  dpt_a.ptk_eo:rmw
   bmd:eot.dot //masde.doute
     usb
     type-A,B,C

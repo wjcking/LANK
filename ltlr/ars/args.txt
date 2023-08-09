@@ -42,7 +42,7 @@ ak.jns
     jsn.ak^a
     jmt:ark.mit
   jlt  //jsk_n
-ajlt
+jlt_a
 
 usr //abrs.sls^slw   
 rul
@@ -52,8 +52,8 @@ agjs^h:lr.ksk_w
 atrzk:ar(k)chlli(e)s
 ats.rzk
   k.ls
-  ch_ls
-  ch^ls
+  ch_ls_th
+  ch^ls_ar
 gts
 
 //艾尔古丝 阿克几丝 

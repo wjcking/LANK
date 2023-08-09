@@ -1,14 +1,10 @@
 ﻿/*
-*因特里尔 康科特
-*term.html heuristic.html
-* 
-*Keluiz Cruze Kruise
-*Kross:Crossed Kelovis
-*Klause:Some real deal happened
-*Kause:be dic cause Clothes //Kause:SeykastBeinged
+*kls^r_zrc_rvs
+*ltlr kkt
+*term heuristic 
+*
 *https://zh.m.wikipedia.org/zh-hans/世界史年表
 *https://en.wikipedia.org/wiki/Timelines_of_world_history
-*https://www.tutorialspoint.com
 */
 克路斯:双边 推向.中心 索莱克迭代
 
@@ -80,7 +76,7 @@
     遗产继承 抵押担保 
   人身损害
   
-  //新闻侵权
-  //拆迁安置 农村承包 邮政储蓄  债务追讨 医疗纠纷 交通事故 
-  //工伤赔偿 消费权益 保险理赔
+  //交通事故 医疗纠纷
+  //拆迁安置 农村承包 邮政储蓄  债务追讨   
+  //工伤赔偿 消费权益 保险理赔 新闻侵权
 合同纠纷 

@@ -1,9 +1,7 @@
-﻿/*
-*Mades-Mesades//masaid(s)mesdes //atibles:ae
-*Misade//梅塞得:平行 立  体#多维:芮泊尔.分克:钫得
-*Manches//曼彻斯:边 表面 !纳冗
-*Manchist.Kinaiket-Disdinguish,Visaid-Solid,Kaler Kaist
-*/
+﻿msd^z://梅塞得:平行 立  体#多维:芮泊尔.分克:钫得
+mts^ch//曼彻斯:边 表面 !纳冗
+mst^th:lnt.cht-tsd.gts^sh vsd sld kst
+
 mst:lsk:asd
 msd:ark
 
@@ -19,7 +17,7 @@ ist-kst-c
 pst.ksh:blt^a,utl^y
 
 bsk:msd
-  ksat:ltk:lnchk
+  kst^a:ltk:lnk^ch
   ^sdy_a*:nuek,nuede,naike//nayger
     keb.kab
   lnch^k.lst:mslt.msn.nk

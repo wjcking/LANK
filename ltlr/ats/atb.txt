@@ -2,7 +2,7 @@
 ank.dfd_en.rl.vsd_t
 ag_o.rl.enk:wab.st
 
-abs:atb^s 
+abs:abt.rfb^ank
   aie:vy:tide: pup dab dup(aks)kt
    aldle  adlde aldz 
   ad_das //aydedas
@@ -11,7 +11,7 @@ abs:atb^s
   //td^x
   //tch_b.asn_zh ark.jlt
   lks.ch.zh
-ads
+ads:atb^s
 
 tsb:bc.ea.ets
   ars.abrs //ablz

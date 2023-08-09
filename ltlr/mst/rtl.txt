@@ -13,17 +13,16 @@ krls.bsk_ol
     v.y
     x
   l
-  //pand:pend_a accessory
+  //pend_a accessory
   aks.ats
-  fnc_l
-    skr:krd^ktr_d
   lks_ln
+    skr:krd^ktr_d
+  fks.ln //fnc_
 
   rxs_e_ks
   lks^a
 
   tgs
-  //ftn_an
 kldr
 
 fks.rtl_d

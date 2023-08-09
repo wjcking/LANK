@@ -6,15 +6,16 @@
 wad.hlgt
 wap.asnk
 wab.st:kar.ltb.chz_h
-  enk_n
   wc_o
   wk_o
+  wls.vds.krl
 
-  wd_a
+  wed_a
     smp_n^bl.skr^y
   wab.hlkt
 
   vwr.kest_a.vrsk
+  enk_s
 wed_or
 
 ltlr:knr_lst_e
@@ -25,16 +26,16 @@ tbl_n
   rmw.rs_el^c
 tmb_ln.hlkt:vsd:lsk_wo
 
-wabst.vrsk
-snlus.slnsj^x_g:sls^sh
-krls
+wab^st.vrsk
+snlus.slnsz^jxs_g:sls^sh
+krls.kldr
 
 sls_ae^c.args
   glasdn.klstr
   grs_c
     halnk_en.srk_eou
     krea_h_o:kx_eo:knam_l
-  gagl_aou
+  gts_aou.atr
 
   laos.burma.miadian
   una_sha.tal_nd

@@ -4,7 +4,7 @@ smlnk:nu,a[z]e
 ank_c
   sas_c.atc.kst.lck //g
   str_en
-  axis //lsk rsk
+  axs //lsk rsk
   saz_alen
 lnt_en
 

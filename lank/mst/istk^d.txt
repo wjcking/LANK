@@ -33,8 +33,8 @@ isk.kst.l
 lsk^r.l 
 
 istk^d//kdks rl adide ow
-  krt^d
-  ktr^d
+  krt
+  ktr
 ist^r.kb //aes
 
 mlk:n:t

@@ -21,7 +21,7 @@ tli
 t:tri.tl:i
 t:tsi:tls:i
 
-tlk_i.lnk
+tlk.i.lnk
 t:tl:kl^i:i //r.ln a
 t:tls:kls:i
 
