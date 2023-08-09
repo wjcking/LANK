@@ -19,12 +19,12 @@ ltlr
   lnt_ch
     lnk^th
     lnk^lk
-    pst
+    kls
 
   mst
-    msd
-    dsk
     land
+    msd
+    kls
 
   ftn
   lsk
