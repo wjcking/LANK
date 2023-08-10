@@ -14,10 +14,10 @@ trk.skr
 tkn
 
 t.lank
+tli.iank
 //tl.n:rl.itl
 //tsl.rl:ch.sh.d
 //istk^d
-tli
 t:tri.tl:i
 t:tsi:tls:i
 

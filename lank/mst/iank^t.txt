@@ -1,9 +1,10 @@
 ﻿ist:iank
 ist:sk.ns_i_sh:itl
 
-itl
-s
-ltl
+//itls
+i.t
+  s
+l
 
 ist:t,t=i,i=t
 //rl ti it
@@ -16,11 +17,11 @@ i //its
 ti.iank // t i ti
 //trs:s:kl:skr
 //ltlr.brts.rtn
-t
+t.s
   k
   f//
   n
-  l.lank
+  l.iank
 i //ltlr.ats
 
 //rl.ats

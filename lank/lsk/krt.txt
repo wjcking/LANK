@@ -1,10 +1,10 @@
-﻿//ats  Entxchs:T,Disding(W.Rise*M)ish:D
+﻿//ats.krt^d.ets.rcs
 ist.kst-l
-vst
+vst:bst.sab^stu.tud
   vsd_al:krt_a:
   ktr:ktl:klt_an_e^d
   vsd_la:krk_a^t:
-bst.sab^st_u.tud
+slt.bsk
 
 isk.mlk.vst //trk.tsk.tsn_i_l
 krt:isk^o.lst^k

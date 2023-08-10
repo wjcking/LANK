@@ -12,7 +12,7 @@ k_n:ltl_r
 
 /****ltlrs****/
 
-//lan_nd
+//land
 lank.ltlr.lts^w
 
 //lsk.c
