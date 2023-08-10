@@ -1,0 +1,39 @@
+﻿klst.klt.lsk 
+
+
+kl^al 
+  brt.lck
+kns^sai
+  
+fks_c.aks.jts.atr_ch
+  enk //not.lck
+  las
+  kth
+
+  luk.trx
+ptk.krf_m
+ 
+/*
+*offset:compatible
+*  difference.contrast
+*  lost
+*keypoint
+*/
+afr_ow:r_ani.l_ivy.irf_w
+  jts.sls:itb-s:~,-,^ //svlt
+    idx,klr_cae
+    //ayrister
+    itlr.itfs:irst:
+    pskf.past.pst
+    pad_n.atz^w.its
+      knt_e.pst.rtf^d.kst^al.stk //const_expr
+      dtf
+        kkt
+        lst_ao
+      k^y.pt_in
+
+      ch_wi.nat_o
+      cst_n
+    fatn_ni
+    lk.lnk.klt
+  kst
