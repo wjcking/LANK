@@ -60,9 +60,9 @@ ksn.s
 
 sks^a.ksn
   rft
-    sard^a
+    rds:sard^a
     
-    frd_e
+    rdf:frd_e
   fld^l^wu
 ats
 

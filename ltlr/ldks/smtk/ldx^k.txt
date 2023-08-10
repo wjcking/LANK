@@ -29,7 +29,7 @@ fgt^slf^o.lsk^d.kl
       sls.nts
       gdy.lys 
       ets_ksh_al.tkt^prt^k       
-      cht^k //nts^k !!!
+      cht^k //nts^kc !!!
     ksh_al
   lbt_n
 kns_sh.abt^r.abs:s f k c

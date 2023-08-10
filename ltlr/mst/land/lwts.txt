@@ -35,17 +35,6 @@ kdks:mrk:ats.mts_ch_d
   abt_oi:irs.b  
 lchs
 
-//intellyer:amrk.vrsk
-ltl^s.ats.kst^a
-  l_i
-  f_ks.avl_on
-  k_st
-  r_cs
-
-  s_mn
-  mrk_eaor
-lsk_c.lck_e
-
 /*
 *伊莱克斯
 * 凯尔瑞特 钛康恩

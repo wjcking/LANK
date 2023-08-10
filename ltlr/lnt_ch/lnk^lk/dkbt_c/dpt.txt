@@ -12,7 +12,7 @@
 *wif:Wireless
 *blt:Bluetooth
 */
-dpat_r:kpt_an:hlkt:kb_an^g
+dpt_r:kpt_an:hlkt:kb_an^g
   mbd //Mainboard
     ^pat //part
 

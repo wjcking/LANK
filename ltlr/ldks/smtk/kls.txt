@@ -17,8 +17,8 @@ l
 
 ats.ets.k
 t.l
-  krt.smt //sayemankaret
-  tst^a.smt^r
+  krt.smt
+  tst^a.msh.smt^r
   kt.rsk //jrk^ol
 
   trk:krt.lbt.rl

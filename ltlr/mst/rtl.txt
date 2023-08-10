@@ -21,7 +21,7 @@ l
 krls.bsk_ol
 	jxs.jts
 	//accessory
-  kkt^an:pend 
+  kkt^an:pend.ftn
   aks.ats
 
   lks_ln

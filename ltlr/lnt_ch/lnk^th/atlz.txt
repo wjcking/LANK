@@ -3,7 +3,7 @@
 *vts.vds
 *kdks
 */
-abt^er.ats_e:bsk_o_l:bsmt.ltlr
+abt^er.ats_e:bsk_o_l:smt.sdy
   bk.rk.brk //pix.l sl_sh smt
     zk
     sk^are.sd
@@ -24,27 +24,27 @@ abt^er.ats_e:bsk_o_l:bsmt.ltlr
   mka
 lsk_c:nks:abl_a.smtk:dar_y
 
-btn
+abt.btn
 krls.lsk.vsk.avl_on//afsk.fks.fkx
-  mka
-    msk
+  mka.vka
+    msk  mst^d
     //mzk_u.sak
-    mdr
-    mds:mdy //nd.pd_an:bk_ari  
-  mst^d
+    
+    mds:mdy //nd.pd_an:bk_ari
+	mda.skt:mdr
 kldr:lsnk_no  
 
 rsk_c_awr:lk_ao_wo:rk_eo
-  smt
-    slc
-      mgt shrk lksbd_en ltsak^d
-      msd.bde
-      skr
-    lsks
+smt
+  slc
+    mgt.ksh_r.ist^k
+    msd.bde
+    skr
+  lsks
 
-    bsk_ol.rcs.msd.bsk_o.a
-    kln kmr^y
+  bsk_ol.rcs.msd.bsk_o.a
+  kln kmr^y
 
-    ltlr.kst^a:mth
-  sdy_a^l
-abt
+  ltlr.kst^a:mth
+sdy_a^l
+

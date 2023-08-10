@@ -19,7 +19,7 @@ m.alk.msk
 
 //ltl.ltls.skr.mkr
 ltl_r.kd.nk.lan
-  an_ni:lct_n
+  anni:lct_n
   rl
   mch.r:lk_wo
 mkr

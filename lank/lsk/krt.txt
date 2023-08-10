@@ -1,10 +1,13 @@
-﻿//ats.krt^d.ets.rcs
+﻿
 ist.kst-l
-vst:bst.sab^stu.tud
+bst
+vst:bsd:sab.stu.tud
   vsd_al:krt_a:
   ktr:ktl:klt_an_e^d
   vsd_la:krk_a^t:
 slt.bsk
+
+//ltlr.ibt
 
 isk.mlk.vst //trk.tsk.tsn_i_l
 krt:isk^o.lst^k
