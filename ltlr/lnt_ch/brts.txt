@@ -15,10 +15,11 @@ brts_e^d:abrs.brts.args
   klt
 
   bts
-  bds //lsk.atrzk
+		lst.atrzk
+  bds 
 
-  lsk^t //tk tsk tzk 
+  rsk^t //tk tsk tzk 
     dlt_e
     rls_e
-  lsk^c
+  lck
 ltlr
