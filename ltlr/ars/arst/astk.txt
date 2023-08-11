@@ -5,7 +5,7 @@ kst.ist.iank
 fsn
 	fks
 	fks.lks
-dsn //mlk.fls:hbe
+dsn //ltl.mlk.fls:hbe
 
 slk^d
 krf

@@ -6,12 +6,13 @@ fts_z:rsk.c.lsk
     //thead stack function
     dth.kst.l 
     nl:url:ulv
-    //lterative rkesw
+		    
     //knt_e.tlm:255.2b2f
+		//lterative rkesw
     fu.z
       rkr^s 
       rkl^rs    
     nr
   trx:s:kl:krs
-ral^y //十米切术木
+ral^y //水米切木树
 

@@ -14,7 +14,7 @@ vks.rd_ln
   krl_r
   hbt
   hdr_ear_ol.asz
-   dm.mch
+   dm.msh
      mst^an.mth//及申
    dv^ol //rst^kr
   hzh_a^ch

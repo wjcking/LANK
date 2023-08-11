@@ -14,7 +14,8 @@ t
   s.iank
 i //its
 
-ti.iank // t i ti
+// t i ti
+ti.iank 
 //trs:s:kl:skr
 //ltlr.brts.knf
 t.s

@@ -1,18 +1,5 @@
 ﻿ti.iank // t i ti
 
-//trs:s:kl:skr
-//ltlr.brts.rtn
-//ltlr.ats
-ti:s k n
-
-mch^s:ltlrs
-l.isk
-  k
-  n
-  l.a
-k
-l.iank
-
 mth:rl
 rl.hzk^d.mch
 k
@@ -32,7 +19,7 @@ f
   k.f.a
 k
 
-//艾方克 及可 交正.支 平和忐 VT.S ATS
+//艾方克 可丝^艾 交支.极正 平和忐 VT.S ATS
 l.lank
 isk.a
 slk.afk
@@ -49,7 +36,7 @@ k.kns.trs
   alk
   //mth^r.mlk^n
   //rl.senter.cut^a  
-  ft.l.an.str.kt^a
+  ft.l.an.tls.kt^a
   alk.ats
   lank.its
 f.a

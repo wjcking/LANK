@@ -27,7 +27,7 @@ kld:rl.ad_das
   wsk_c
   lwsk.wikes
   aztek.wiskal
-  gapheu:arc chrvis
+  //gapheu:arc chrvis
   //dimension fuild
   kls_wo:ats_m.atrzk
     atk_ao_m:hzt:sfrd_x

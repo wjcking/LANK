@@ -21,5 +21,6 @@ its
 ink.lnd.lank
 
 kst-ist
-hbe.f-k-i.irk-a
-tsn-mst-itlrs
+
+tsn-mst-itlrs.dsn
+fsn:hbe //f-k-i.irk-a

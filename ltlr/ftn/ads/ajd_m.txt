@@ -1,21 +1,24 @@
 ﻿mst^l.n
-jts:Jls.ats.jks.jxs
+jts:jls.ats.jks.jxs
 ats:aks^ach^s.artzk
 
-tx^q.jsn^a
-tx^ra.jts^k.ary
+txq.jsn^a
+txq.jkt.ary.atr
+pr.jkt
+emt
+ezk:jsn.jkt
 //ks.la
-trg.als.tkn(Q) 
+trg.tkn(Q) 
 unt^a:atu.jkt//Route
   ajd_m
     gam^ero
-    gem^zh.are
+    gem^zh.are.emt
     jlm^lro
     jlt^a.ets:mrk^ary
   jlt^al:ak^r.mt  
   
   rfb:st
- unx^ezk^u.lt^j.kt:Jk
+unx^ezk^ult
 
 ltlrs
 unx.pzt^j
