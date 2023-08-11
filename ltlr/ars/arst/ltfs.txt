@@ -1,0 +1,9 @@
+﻿ltlrs.rtl.rts
+ltlr.mch:mth
+ltlr.ltfs:kkt:ttk
+ltlr.kmsk.brts.knfs.ksn
+
+hsk:hzk
+hds:hdz
+
+atms.arst.asz:brts.knfs

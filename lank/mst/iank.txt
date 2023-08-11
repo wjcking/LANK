@@ -16,7 +16,7 @@ i //its
 
 ti.iank // t i ti
 //trs:s:kl:skr
-//ltlr.brts
+//ltlr.brts.knf
 t.s
   k
   f//

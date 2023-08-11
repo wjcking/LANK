@@ -2,7 +2,7 @@
 *CircleRectick Argus
 *absock-cybert/eunix-euclid.html
 */
-Ryber:Karract.Woci
+Ryber:Karract
   Bigger:ABCDEFGHIJKLMNOPQRSTUVWXYZ
   Smaller:abcdefghijklmnopqrstuvwxyz
 

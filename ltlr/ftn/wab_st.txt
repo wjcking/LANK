@@ -18,28 +18,28 @@ wab.st:kar.ltb.chz_h
   enk_s
 wed_or
 
-ltlr:knr_lst_e
-tbl_n
-  tnnl:smt
-    dkbt:dqkn:dpt_a //kast:bts_r
-    nrkb_w //sb_a.lk
-  rmw.rs_el^c
-tmb_ln.hlkt:vsd:lsk_wo
+ltlr.kbt:knr.lst
+tbl_n:abt:atb
+tmb_ln.hlkt:vsd:lsk	
+tnnl:smt
+  dkbt:dqkn:dpt_a //kast:bts_r
+  nrkb_w //sb_a.lk
 
-wab^st.vrsk
-snlus.slnsz^jxs_g:sls^sh
-krls.kldr
+rmw
 
 sls_ae^c.args
-  glasdn.klstr
+	krls
+		vrsk
+		glsdn.blsgn
+		flkrs
+		snlus.slnsz^jxs_g:sls^sh
+	kldr
+
   grs_c
-    halnk_en.srk_eou
+		//hlnk_en.skr_eou
+		//laos.burma.miadian
+		//una_sha.tal_nd
+    
     krea_h_o:kx_eo:knam_l
   gts_aou.atr
-
-  laos.burma.miadian
-  una_sha.tal_nd
-ulxs.jts
-
-//Language.Generate
-//Karyact.Transplus.Solidical
+ulxs.jts.lxa
