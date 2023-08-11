@@ -1,5 +1,5 @@
 ﻿/*
-*atms:anatomy
+*atms:smtk^al.slck
 *https://www.innerbody.com/htm/body.html
 *arst
 *		nervous, including the central and autonomics

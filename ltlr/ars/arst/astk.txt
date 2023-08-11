@@ -9,4 +9,5 @@ dsn //mlk.fls:hbe
 
 slk^d
 krf
+	kld_aln sld_aln
 krt

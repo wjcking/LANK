@@ -18,6 +18,5 @@ vgs.jxs.ags //usually:uvs.ves.wlns_a_wo
   rck:lck
 s:skr:kl
 
-klnd slnd
 
 arst_ltlrs.tks
