@@ -19,7 +19,7 @@ i //its
 
 // t i ti
 ti.iank 
-//trs:s:kl:skr
+//trs:s
 //ltlr.brts.knf
 t.s
   k
