@@ -1,11 +1,4 @@
-﻿/*
-*阿尔戈斯 战士
-*  “亚哥斯”,或“阿戈斯”。希腊伯罗奔尼撒半岛东北城市，约有5000年的历史。
-*  维赛德.发音问题发现
-* 艾欧罗斯
-*艾亚各斯
-*/
-ats.aks.axs
+﻿ats.aks.axs
 ars.jls^b:ags_j
   rfr:l
   zk_n.h:z(h.li)z.n 
@@ -48,7 +41,7 @@ usr //abrs.sls^slw
 rul
 lus^na //cna.are rd_ln ats.aze^z
 
-agjs^h:lr.ksk_w
+agzs^h:lr.ksk_w
 atrzk:ar(k)chlli(e)s
 ats.rzk
   k.ls
@@ -57,8 +50,8 @@ ats.rzk
 gts
 
 //艾尔古丝 阿克几丝 
-wab.st.wc:smao(e)bige(w)amid
+wab.st.wc//smao(e)bige(w)amid
 ars.aks
-ablz.klk^c //are.ges bly.aztk Txy.Mel
+ablz.klk^c //are.ges bly.aztk txy.mel
   ptgl
 azgl

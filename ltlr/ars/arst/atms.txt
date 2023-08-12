@@ -7,10 +7,10 @@
 *		muscular
 *		integumentary, skin, hair, and nails, among other areas皮肤
 *
-*asz
+*azs
 *		skeletal
 *
-*klh.fks
+*hlk.fks
 *		respiratory
 *klh
 *		digestive

@@ -2,11 +2,14 @@
 jts:jls.ats.jks.jxs
 ats:aks^ach^s.artzk
 
-txq.jsn^a
-txq.jkt.ary.atr
-pr.jkt
-emt
-ezk:jsn.jkt
+tx.k
+	txq.jsn^a
+	txq.jkt.ary.atr
+	//pr.jkt
+	emt
+	ezk:jsn.jkt
+unt.nks.e
+
 //ks.la
 trg.tkn(Q) 
 unt^a:atu.jkt//Route
@@ -26,18 +29,3 @@ unx.pzt^j
   l.an
   ark  
 kld_e.jks^sh
-
-jxs:f,r jd_y
-ark.ocl
-jzs
-  fbk.dam^d:c,q
-  bsd^sda
-  orq^blv^n.slk.o:a,e,q
-    org^e:ora^rl    
-      klk^n
-    orz^gy.artzk
-  orb^sdn^an
-
-  edn.tns^a.kls^unw //sadan satan
-  txq.jsn^na
-jld

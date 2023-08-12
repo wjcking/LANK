@@ -4,27 +4,27 @@
 *Symantek:Keris
 *friskea-wistron.html
 */
-gts.mgt:rkt_el:jkt_e:brk_fg 
+ats.mgt:rkt_el:jkt_e:brk_fg 
 
-//tlsk.klk_ln.landd.nk 
-gst.mth^k.jzh.tch^k:ksh_aon
-gst_e()
+//tlsk.klk_ln.land.nk 
+gzh.mth^k.jzh.tch^k:ksh_aon
+fks_e()
   //Atowardiz.Second
   //asn_th
   ats.knd^sal
-  brt_en.whm//Beyines:Booleaned
+  bds_en.rl//Beyines:Booleaned
   ksk
     lnt.lat
     wts:wth^c
   tnk^d.lbt
-fgt^s_ao
+ats //fgt^s_ao
 
 lnt.mtk.chk
 
-fgt^slf^o.lsk^d.kl
-  gts.knt.kt //sakend
+atc //fgt^slf^o.lsk^d.kl
+  knx.kts //sakend
   abt.pst.trs.sxr
-    mrk.lnt.chk.kav^r:msl_n,hdy
+    mrk.lnt.chk.krt:msl_n.hdy
     ltlrs.rkb.tap_o  
       sls.nts
       gdy.lys 
@@ -32,7 +32,9 @@ fgt^slf^o.lsk^d.kl
       cht^k //nts^kc !!!
     ksh_al
   lbt_n
-kns_sh.abt^r.abs:s f k c
+knfs.c
+
+msh.kth.abt^r.abs
 
 kls^r
 k

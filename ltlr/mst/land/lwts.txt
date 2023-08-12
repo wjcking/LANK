@@ -7,12 +7,9 @@ unvs_r
 *转栈:T 土 丁 核心
 *重 迁引 磁 浮 推进
 *
-*Rastera\intellyer\smlnkec.html
-*Smlnk.Aymerk
-*SaternGallarik.GrindBaolick //ArgusCoress.Paskefully
-*RoundBelt.EyeVision.Noticable
-*Track.Coreget,Collsion
-*Around.Mgt:Self.Public //Ayerond StoneAround,  
+*smlnkec.html
+*lnk.smt.syd
+*mgt.klshn
  */
 ksk.rck
 kdks:mrk:ats.mts_ch_d
@@ -28,7 +25,7 @@ kdks:mrk:ats.mts_ch_d
       grvt.nas_ing:grd_ian
     kest.lwsk.klsk_d
   ats_m.mrk
-  axis
+  axs
   abs_r.slnk.bpqd_aeo.lsk_c
     lad.nk:hzk_dao^r //plant_e
     wst_ch:vprz //bl_y.aztk
@@ -40,13 +37,12 @@ lchs
 * 凯尔瑞特 钛康恩
 */
 ilks.lnd_ena
-atms.balsk_c_p
+atms.blskn
   ptk^ao
   pskf:utl
   psh_aeu
-  
   //sunlask
-klst.?chakn_i
+klst.plck
 
 jlt_a
   kl:nks

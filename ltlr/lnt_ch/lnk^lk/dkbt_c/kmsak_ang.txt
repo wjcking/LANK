@@ -23,8 +23,8 @@ fug
 * 铯 卡尔特
 * 女性优先:约束 梳理 会计核酸
 */
-Enkeliced.Invest.Dcayebt.Utility.GenderAged
+GenderAged
 //Dcayebt.HandFirst.KeyboardInvest
-Female.HandleStick
-Female.MusicInstrument
+HandleStick
+MusicInstrument
 

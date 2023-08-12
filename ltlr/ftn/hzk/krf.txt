@@ -19,7 +19,9 @@ kam^o
 
 //ksh^n!jmp 
 //hzk:ts S[^C]_L!JK*TS
-kst_adl:vcc.gnd
+kst_adl
+vts.atz//vcc.gnd
+
 krf^al:hdz.lnk_th_l.jxs.lck_p
 hzk.krf^al:rck^dlx
   ksn.lnk_th

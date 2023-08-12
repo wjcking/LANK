@@ -1,13 +1,14 @@
 ﻿ltlrs.ksn:rtl.mch
-
 kst.ist.iank
 
+tsn:ltl.fls.mlk.:hbe
 fsn
 	fks
 	fks.lks
-dsn //ltl.mlk.fls:hbe
+dsn 
 
-slk^d
+arst.slk^d.rkb
 krf
-	kld_aln sld_aln
+	kld_aln
+	sld_aln
 krt

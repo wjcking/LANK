@@ -1,4 +1,7 @@
-﻿ist:iank
+﻿iank-kst
+iank-ist
+iank-s
+
 ist:sk.ns_i_sh:itl
 
 //itls

@@ -1,18 +1,23 @@
 ﻿ist.iank
-astk
-
 rsta.rts.rn
 klh.fks.hlk
 
-arst.rtl.rl
+rtl.rl.dsn //annl
+rl.kri.fsn
+mth.tsn
+
+blt_s.psk_c
+arst
 	atfs
 	atlr:i.l
 	aref
-asz
+azs
 
-hlk.asz
+hlk.azs
 asnk:asn
 	art
 	atr
 	azt
 aztk:atz:azt
+
+astk
