@@ -1,12 +1,15 @@
 ﻿/*
 *中文学名为互补金属氧化物半导体
-*
-*A hardware interrupt is an electronic alerting signal sent to the processor from an external device
-*Require time-sensitive attention.
-*interrupts are physically designed into the hardware and utilized by other hardware.
-*CMOS(Complementary Metal-Oxide-Semiconductor)
-*Basic Input Output System
+*cmos bios
+*A hardware interrupt
+* alerting signal external device
+*rl.time sensitive attention.
 */
+hzk_hzh
+	hln.hzk.wfs
+	atu.mgt.frd.vzs
+blt
+
 pcb.put^er
   smos.rsk^c
   bios.asc.lck^abt

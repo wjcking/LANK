@@ -16,7 +16,7 @@ trs:kt_ao.ktz_l //ket
 krs
 
 //所柯云:不正斜
-skr
+dtx.klx
 dsg_wy_lr:lrg^lr
   rg.dk:ltb.dslk_a
   rg_l.dk.rg.dk.c
