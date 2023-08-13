@@ -13,11 +13,11 @@ arst
 	aref
 azs
 
-hlk.azs
-asnk:asn
+azs.hlk
+asn.k
 	art
 	atr
 	azt
-aztk:atz:azt
+asz:azt.k:atz
 
 astk

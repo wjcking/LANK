@@ -4,36 +4,18 @@
   a
 bsk_ol
  
-kst_l
+kst.lsk
   flkr_sw
   //hxzt
   blsk_engj
 bsk_o
  
-kst_l:flsk:s,c(hxzt)
+kst_l
   fsk:c
   rsk:c
   lsk:c
-  hsc:hsk
-    hx
-    hlx
-    xyz
-  h z
-mst_fbh_e-nm-d
+  hsk:z.x  
+tzk_e
 
-//AutoDesk\analytical\asckor.html
-//Analytical\meylouk\ayrstkal.html
-Ayfursk:Refabric:Bertkeiz:Inhelik(or er)
-Ask
-  Aic^ch //e    
-  Zh //e fur
-  Fsk
-  Fc^k.Furcka
-Fusk: //u=wvy
-Enfural.EntieFurcel:Task
-
-ayfursk.ksat_e:lnchk_t
-  aks_l:ask
-    psd bsk blt
-  fsk:fks
-avl_on:hlgt.args
+//fks.afsk.rfbk.bzklk
+//avl_on:hlgt.args

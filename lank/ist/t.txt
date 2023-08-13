@@ -7,7 +7,8 @@
 //msd:stk_sh_w
 //mts:tsi.k
 //mts_ch:tls_e:lank
-//vsd.rl:tricycle:sanjiao
+//rl
+//vsd:tricycle:sanjiao
 t
 
 //iank.i

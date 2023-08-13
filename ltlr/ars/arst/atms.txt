@@ -1,21 +1,23 @@
 ﻿/*
 *atms:smtk^al.slck
 *https://www.innerbody.com/htm/body.html
+*rtl
 *arst
 *		nervous, including the central and autonomics
 *		lymphatic
 *		muscular
 *		integumentary, skin, hair, and nails, among other areas皮肤
 *
-*azs
+*azs.atr
 *		skeletal
 *
 *hlk.fks
 *		respiratory
 *klh
-*		digestive
 *		endocrine gland hormone 分泌
 *		cardiovascular, including the heart 穴谷
+*		digestive
 *		urinary
 *		reproductive
+*hdr
 */

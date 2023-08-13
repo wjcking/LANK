@@ -7,7 +7,7 @@
 ats.mgt:rkt_el:jkt_e:brk_fg 
 
 //tlsk.klk_ln.land.nk 
-gzh.mth^k.jzh.tch^k:ksh_aon
+vgs.gzh.mth^k.jzh.tch^k:ksh_aon
 fks_e()
   //Atowardiz.Second
   //asn_th

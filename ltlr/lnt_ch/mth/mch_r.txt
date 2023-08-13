@@ -1,28 +1,6 @@
-﻿ /*
- *维克斯
- *没子沉
- *  称呼与对接状态
- *  每均衡
- *美钻辰
- */
-vks.rd_ln
-  gzh.mtk.rtl.rts.krls  
-  rl.lvsh.vts^kl //szn
+﻿
 
-  ldx.kl //及申
-  krlt^ch^r
-  krl_r
-  hbt
-  hdr_ear_ol.asz
-   dm.msh
-     mst^an.mth//及申
-   dv^ol //rst^kr
-  hzh_a^ch
-
-  msd.ngs
-hxs
-
-ltls.ltfs
+trf
   //kls_w.rzh_lg
   //trs.ats_m
   sad.gzh.chf^s
@@ -57,4 +35,4 @@ ltls.ltfs
     gm_wo
     unds_a^th
   nmk^a:nr.nk.nk^a
-mch_r.th
+trh:mch_r.th

@@ -2,13 +2,22 @@
 jts:jls.ats.jks.jxs
 ats:aks^ach^s.artzk
 
-tx.k
+tx^ch
 	txq.jsn^a
 	txq.jkt.ary.atr
 	//pr.jkt
 	emt
 	ezk:jsn.jkt
-unt.nks.e
+unk.nks.e
+
+uts.atu
+u.vw
+  unt //mgt.bst    
+  unx.utz
+	//l
+	utlz
+	ulxs
+n.m
 
 //ks.la
 trg.tkn(Q) 
@@ -29,3 +38,19 @@ unx.pzt^j
   l.an
   ark  
 kld_e.jks^sh
+
+usr //abrs.sls^slw   
+rul
+lus^na //cna.are rd_ln ats.aze^z
+
+vgs.jxs.ags //usually:uvs.ves.wlns_a_wo
+  rck:lck
+kal_s
+
+agzs^h:lr.ksk_w
+atrzk:ar(k)chlli(e)s
+ats.rzk
+  k.ls
+  ch_ls_th
+  ch^ls_ar
+gts

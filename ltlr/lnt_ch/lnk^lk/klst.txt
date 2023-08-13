@@ -27,7 +27,7 @@ afr_ow:r_ani.l_ivy.irf_w
     pad_n.atz^w.its
       knt_e.pst.rtf^d.kst^al.stk //const_expr
       dtf
-        kkt
+        kbt
         lst_ao
       k^y.pt_in
 
