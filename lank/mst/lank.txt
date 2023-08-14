@@ -11,7 +11,7 @@ lsk.rks
   knt-ifk-rck-lnd
 vsk
 
-its  
+ist
   irk.knt-skr
   ilk
   its.lanks  
@@ -20,5 +20,6 @@ ink.lnd.lank
 
 kst-ist
 
-tsn-mst-itlrs.dsn
+tsn
 fsn:hbe //f-k-i.irk-a
+dsn.mst.itlrs

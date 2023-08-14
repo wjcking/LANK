@@ -5,10 +5,14 @@ ats:aks^ach^s.artzk
 tx^ch
 	txq.jsn^a
 	txq.jkt.ary.atr
-	//pr.jkt
 	emt
 	ezk:jsn.jkt
 unk.nks.e
+
+atu.txk
+	//pr.jkt
+	//atv.jkt
+dnk.rls
 
 vgs.jxs.ags //usually:uvs.ves.wlns_a_wo
   rck:lck

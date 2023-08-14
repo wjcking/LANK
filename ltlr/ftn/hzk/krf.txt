@@ -7,6 +7,7 @@
 */
 hzk_hzh
 	hln.hzk.wfs
+	bzk
 	atu.mgt.frd.vzs
 blt
 
@@ -15,7 +16,7 @@ pcb.put^er
   bios.asc.lck^abt
 sak.kam
 
-//interrupt:enterkame
+/***interrupt:enterkame***/
 lnt
   rpt.kst_adl //call slc.stp^o
 kam^o
@@ -35,8 +36,7 @@ rck.fbk //gts.knfs
 krf^alc.lsk.slc
 //付忑 地压
 ft.fld
-  hks^l  
-  utz
-  ask^ll
+  hks^l.asc^ll
+  vtz.vns  
 vts.vzh
 

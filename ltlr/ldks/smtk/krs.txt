@@ -1,8 +1,8 @@
 ﻿lank.krlst^c
 
-//信息素  
-//Fernando pheromone    
-//tnl.anl.wks 
+//信息素  Fernando
+// flz.fsk    
+//tnl.anl 
 ars.abrs:aks.ats.sks
   abeds:slk_nl:args
   abs:ab_p.sk //msd
@@ -13,13 +13,12 @@ abz.r.bzklk //jxs
 //ganarla; and_unr.frm_o:ady.ltlrs
 //vrs.kpl_unm_a
 bl^a
-  annl.wc
-
   rbk
-  
-  btk_n.tns_ln
-  btk_ao.tsl
-  dmk_ai:aps.k.abs
+  annl.wks_c
+  dnt_ln
+		btk_n
+		btk_ao.tsl
+  dnk_ai:aps.k.abs
 abrs.k
 
 rtl.ltls.rck

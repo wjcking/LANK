@@ -1,5 +1,5 @@
 ﻿hzk:c
-  ask.rsk.v
+  azk.rsk.v
   hks.hxs
 	hxc//hzh klc asm
 	

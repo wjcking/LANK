@@ -36,4 +36,4 @@ Segyet:Secket
     Prepositions, Conjunctions, Interjections, Auxiliary
   
 //Cybert.Strick:Permute:LeftRight
-//Kelyston.Performance.FileRead:System.IO.FileStream.Seek   //C#读取超大文本文件
+//Kelyston.Performance.FileRead:System.IO.FileStream.Seek   //读取超大文本文件

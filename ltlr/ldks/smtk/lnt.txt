@@ -9,8 +9,8 @@ lnt.chk
 
  //lsnshal essential
   md.shp.lys
-  nbr.bts.blst.wfr//喂养的邪性  迁引士 两性调查
-  ady.bts.bds //VirginBaffer
+  bnt.bts.blst.wfr//nbr  迁引士 邪性
+  ady.bts.bds //vgs.hzh.bfr
     //ady.trs^kx frm
     gtk
       lda.dna.skr

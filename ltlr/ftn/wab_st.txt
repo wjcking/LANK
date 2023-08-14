@@ -1,11 +1,12 @@
 ﻿/*
-*atlz_rn abt^er brts
+*
 *1234567890 abc 钫得 한국어 にほんご 
 *Charlet:Rossita Karolet
 */
+atls.abt^er.brts.knf
 wad.hlgt
 wap.asnk
-wab.st:kat.ltb.brts.knf
+wab.st:kat.ltb
   wk_o
   wc_o
   wls.vds.krl

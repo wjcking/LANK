@@ -8,10 +8,12 @@ sls_ae^c.args
 	kldr
 
   grs_c
-		//hlnk_en.skr_eou
+		//hlk_en.skr_eou
 		//laos.burma.miadian
-		//una_sha.tal_nd
+		//atv.una_sha.tal_nd
     
-    krea_h_o:kx_eo:knam_l
+    krea_h_o
+		kx_eo
+		kna_ml
   gts_aou.atr
 ulxs.jts.lxa

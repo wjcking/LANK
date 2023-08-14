@@ -24,7 +24,7 @@ Textural:FileContent.Format:Article,Text
     ABCD
     ABC DE FGH
     
-    abt.wab.st
+    abt.kat
     XXOXXXXOOOXXX
     XOXOXXOXXXOXX
     XXOXXXXOOOXXX
