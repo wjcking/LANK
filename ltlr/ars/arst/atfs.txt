@@ -3,7 +3,7 @@ ent.fs_uv
 
 //hlk_al.blt
 dtk
-  fus^z:skr
+  fsu^z:skr
   fsh_n:atr:sh //dfm_ire
 bts
 

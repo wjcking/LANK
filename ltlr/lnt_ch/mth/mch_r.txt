@@ -1,6 +1,4 @@
-﻿
-
-trf
+﻿trf
   //kls_w.rzh_lg
   //trs.ats_m
   sad.gzh.chf^s

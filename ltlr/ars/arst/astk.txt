@@ -1,11 +1,11 @@
 ﻿ltlrs.ksn:rtl.mch
 kst.ist.iank
 
-tsn:ltl.fls.mlk.:hbe
+tsn:ltl.fls.mlk:hbe
 fsn
 	fks
 	fks.lks
-dsn 
+dsn
 
 arst.slk^d.rkb
 krf

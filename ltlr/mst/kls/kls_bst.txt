@@ -16,7 +16,9 @@ kls_wo.ltlr.knr_wo.kad
     adls^d:vrsk
     dak.kl_aye.rck.slk_wo
   dsn^a
-  ldnk      
+		ldnk
+	dnk
+
   klh_e^wa//khl_wlj_gy:echs
 kls_l
       

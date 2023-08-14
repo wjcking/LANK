@@ -4,32 +4,16 @@ rtl.ltls
 lt^s
   r.n
   rl.vh
+
+	ryz:rzs
+
   lr.vts.th
   rl.hw.chf^s
 lr
 
-fks.rtl_d
-f.rl.k
-  n:hum:s j l
-a
+rtl.ryz:rzs
+bzr
+	aqz.rl
+bsr
 
-jxs
-j
-    v.y
-    x
-l
-krls.bsk_ol
-	jxs.jts
-	//accessory
-  kkt^an:pend.ftn
-  aks.ats
-
-  lks_ln
-    skr:krd^ktr_d
-  fks.ln //fnc
-
-  rxs_e_ks
-  lks^a
-
-  tgs
-kldr
+fks.rtl_d.rts

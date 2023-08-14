@@ -5,8 +5,10 @@
 iank:ltlrs
 
 ist:isak
+tsn.dsn.fsn
 mlk^n:msd.iso.dk
-  f
+
+  fsn
     fn:fx
     ft
     fc^k //方厄 tessla
@@ -18,7 +20,7 @@ mlk^n:msd.iso.dk
   ist.tri
   its.tsi
     //slt^d.trc.ktr
-    trs 
+    trs
     //abs:ips.d^a 
     //abs.k itk.r.ch
     trk

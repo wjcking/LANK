@@ -5,7 +5,7 @@ krt:isk^o.lst^k
   //trk^t
   //trks^x
   kmt
-  kt_r.ask:vst
+  kt_r.isk:vst
     
   kaz_o.ats.mst
   -thk:msk_n^u
