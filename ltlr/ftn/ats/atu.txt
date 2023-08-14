@@ -10,8 +10,8 @@ tx^ch
 unk.nks.e
 
 atu.txk
-	//pr.jkt
-	//atv.jkt
+	//pr.zkt
+	//atv.zkt
 dnk.rls
 
 vgs.jxs.ags //usually:uvs.ves.wlns_a_wo

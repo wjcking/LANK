@@ -8,7 +8,7 @@
 *		muscular
 *		integumentary, skin, hair, and nails, among other areas皮肤
 *
-*azs.atr
+*atsk.atr
 *		skeletal
 *
 *hlk.fks

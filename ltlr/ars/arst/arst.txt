@@ -11,13 +11,12 @@ arst
 	atfs
 	atlr:i.l
 	aref
-azs
+atsk
 
-azs.hlk
-asn.k
+atsk
 	art
 	atr
 	azt
-asz:azt.k:atz
+atzk.hlk
 
 astk

@@ -6,6 +6,6 @@ trs
 dtx
 tsl
 
-dns.azs
+dns.atzk
 rkb
 hks.asc^ll.vns 
