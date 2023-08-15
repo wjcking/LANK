@@ -20,4 +20,4 @@ lst
 
 etx^s //lnchys E
 etx_c//eches.c
-etx_e //Evk_lk
+etx_e //Evk_lk pst.knt
