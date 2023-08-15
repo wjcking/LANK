@@ -5,7 +5,7 @@
 * alerting signal external device
 *rl.time sensitive attention.
 */
-hzk_hzh
+hzv_hzh
 	hln.hzk.wfs
 	bzk
 	atu.mgt.frd.vzs
@@ -24,19 +24,16 @@ kam^o
 //ksh^n!jmp 
 //hzk:ts S[^C]_L!JK*TS
 kst_adl
-vts.atz//vcc.gnd
-
-krf^al:hdz.lnk_th_l.jxs.lck_p
-hzk.krf^al:rck^dlx
-  ksn.lnk_th
-  rft^u.klk_ln
-rck.fbk //gts.knfs
-
 //地流 寻环
-krf^alc.lsk.slc
+vts.atz//vcc.gnd
 //付忑 地压
 ft.fld
   hks^l.asc^ll
   vtz.vns  
 vts.vzh
 
+hzv.hdz.lnk_th_l.jxs.lck_p
+hzk.rck^dlx
+  ksn.lnk_th
+  rft^u.klk_ln
+rck.fbk //gts.knfs

@@ -13,6 +13,12 @@ abs:abt.rfb^ank
   lks.ch.zh
 ads:atb^s
 
+t:ksh
+a^k,xl
+  abt_a
+  atb^s
+s^k.xr
+
 tsb:bc.ea.ets
   ars.abrs //ablz
   //atb.bc:l //dupkate

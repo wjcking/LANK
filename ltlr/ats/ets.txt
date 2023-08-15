@@ -1,0 +1,23 @@
+﻿ats.ates
+atv.vts //ftn.kbt.lnch_e
+
+rst^v //Ee vrsk
+atv
+	//lnc lnchs Enchys
+	//ets.lnch_s_v
+	etx.lnch_s_yx
+
+	esh_pch^r.abrs.abts
+	vgs.gzh.ntk
+
+	ech_s
+	//knt.vts.pst.krf E
+		ltls
+		atl_nl
+		rtl
+	txs
+lst
+
+etx_s //lnchys E
+etx_c//eches.c
+etx_e //Evk_lk

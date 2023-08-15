@@ -1,5 +1,8 @@
-﻿art:klh_l:r h g e  k
-
+﻿avt
+	asn.k
+	kls.btf.klh
+	klh_l:r h g e  k //art	
+tzh
 克路四_巴希方(西)_克两(亮,立卬,李昂)河
 柯:个戈 克  厄
   //士土一安卬
