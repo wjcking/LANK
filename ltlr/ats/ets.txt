@@ -4,7 +4,7 @@ atv.vts //ftn.kbt.lnch_e
 rst^v //Ee vrsk
 atv
 	//lnc lnchs Enchys
-	//ets.lnch_s_v
+	//etx.lnch_s_v
 	etx.lnch_s_yx
 
 	esh_pch^r.abrs.abts
@@ -18,6 +18,6 @@ atv
 	txs
 lst
 
-etx_s //lnchys E
+etx^s //lnchys E
 etx_c//eches.c
 etx_e //Evk_lk

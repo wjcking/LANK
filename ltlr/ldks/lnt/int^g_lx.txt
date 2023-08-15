@@ -34,7 +34,7 @@ vgs.klh.axs_v
   mzh.annl
     eglx
   dtx.land
-ets
+etx
 
 ldks
 vgs.c

@@ -9,7 +9,7 @@ krt:isk^o.lst^k
     
   kaz_o.ats.mst
   -thk:msk_n^u
-  kez_ao.ets.msk
+  kez_ao.etx.msk
   ktr:kdr
 
   kld_ain 

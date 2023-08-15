@@ -19,7 +19,7 @@ Dimension(E)Aerogus.Dimnshin:Refine:O
     ^Issake:Ayesake.Isodek
     *Diminish //i
   Daomitry //i.argus.o
-Odimential(ETS)Geometry //O.G.CK Silenike
+Odimential(etx)Geometry //O.G.CK Silenike
 
 Damseges:Colorick:Sige,Sake,Sigar,Shijia //m[i,a]n
   Damascus.Arkjinsen:C,Aarges:U
@@ -29,7 +29,7 @@ Damseges:Colorick:Sige,Sake,Sigar,Shijia //m[i,a]n
     Diamond[Atibles]Demon.Metro //MeAcho
     Germ
   Dryaim:Che
-Dais(ets)mask
+Dais(etx)mask
 
 /*
 *Dimension.Description.Human
@@ -90,7 +90,7 @@ Dimnshin:Silence:Argus[E]ergwus //SK
   Lickr
   //MarchEarth MeshEers
   Demtry:FountianPendary.Deometry
-Odimential(ETS)Geometry //G.CK Silenike Orgin^Aborginal:Dimental
+Odimential(etx)Geometry //G.CK Silenike Orgin^Aborginal:Dimental
 
 fbk.dnk^d:c,q
   bsd^sda
