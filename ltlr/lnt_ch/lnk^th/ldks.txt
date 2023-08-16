@@ -44,18 +44,18 @@ Karblend:Paskeful.Sequalent.Analyticals
     CarowletDifference WsyreckUtizual    
 
     ant:mts //RequireLong.SnickTimes
-    nks.wabst//EnglishLimited 
+    nks.vbs//EnglishLimited 
     hzk_lng //AnalyticHindered.
 
     //dkbt_ae
     asak.lvsh_n //Redraw
-    Kelstr.Dpart.Itlr_n.
+    Dpt.Itlr
 
-    ltfs
-      ftn_a:fag_n:chaf_ueo
+    tfs
+      ftn_a:fag_n:chf_ueo
 
       kpt_n^k
-        nks_e
+        nks
       bsk
     dkbt
 

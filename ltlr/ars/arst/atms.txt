@@ -6,7 +6,8 @@
 *		nervous, including the central and autonomics
 *		lymphatic
 *		muscular
-*		integumentary, skin, hair, and nails, among other areas皮肤
+*		fks
+*			integumentary, skin, hair, and nails, among other areas皮肤
 *
 *atsk.atr
 *		skeletal

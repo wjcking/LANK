@@ -6,9 +6,9 @@
 *rl.time sensitive attention.
 */
 hzv_hzh
-	hln.hzk.wfs
+	hlx.hzk.wfs
 	bzk
-	atu.mgt.frd.vzs
+	atv^un.mgt.frd.vzs
 blt
 
 pcb.put^er

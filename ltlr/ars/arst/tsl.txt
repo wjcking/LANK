@@ -8,7 +8,7 @@ trs:kt_ao.ktz_l //ket
   slt:av //Av
 
   rsk.skr:kst_a.fsk
-  //丝沃科元:初电  导电  地占 中天 闪电 丢米
+  //丝沃科元:初电  导电  地占 中天 闪电 地米 丢切
   ank_c.tsl //artzk
     tr^on:trk //Tiron Titanium
     tch.ark.etx.tas^l
@@ -16,7 +16,7 @@ trs:kt_ao.ktz_l //ket
 krs
 
 //所柯云:不正斜
-dtx.klx
+dtx^b.klx
 dsg_wy_lr:lrg^lr
   rg.dk:ltb.dslk_a
   rg_l.dk.rg.dk.c

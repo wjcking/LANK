@@ -18,6 +18,6 @@ atv
 	txs
 lst
 
-etx^s //lnchys E
+etx^s //lnchys E lnk.smt
 etx_c//eches.c
-etx_e //Evk_lk pst.knt
+etx_e //lvk E pst.knt atv.esh
