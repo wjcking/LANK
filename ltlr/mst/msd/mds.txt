@@ -6,7 +6,7 @@ iank:ltlrs
 
 ist:isak
 tsn.dsn.fsn
-mlk^n:msd.iso.dk
+mks:msd
 
   fsn
     fn:fx
@@ -21,6 +21,7 @@ mlk^n:msd.iso.dk
   its.tsi
     //slt^d.trc.ktr
     trs
+			trx
     //abs:ips.d^a 
     //abs.k itk.r.ch
     trk
@@ -28,4 +29,4 @@ mlk^n:msd.iso.dk
 
   mtk^d:ch
  
-mlk^wo
+mds //mlk^wo

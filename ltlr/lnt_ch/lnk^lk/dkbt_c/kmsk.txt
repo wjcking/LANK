@@ -14,7 +14,7 @@
   bda^o.lnt.cht
 bts_er_d.lsk^c //Transplant
 
-chf_wa_ou:mfs_n//truffle
+mfs_n.chf_wa_ou://truffle
 fag
   gus:tub
 fug
@@ -23,8 +23,6 @@ fug
 * 铯 卡尔特
 * 女性优先:约束 梳理 会计核酸
 */
-GenderAged
-//Dcayebt.HandFirst.KeyboardInvest
 HandleStick
 MusicInstrument
 

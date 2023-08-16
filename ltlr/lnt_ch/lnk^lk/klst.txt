@@ -18,7 +18,7 @@ ptk.krf_m
 *  lost
 *keypoint
 */
-afr_ow:r_ani.l_ivy.irf_w
+atf.afr_ow:r_ani.l_ivy.irf_w
   jts.sls:itb-s:~,-,^ //svlt
     idx,klr_cae
     //ayrister

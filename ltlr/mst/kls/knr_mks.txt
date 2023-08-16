@@ -24,7 +24,7 @@ ltlr:kn_r:kbnr
 
   wms
     mhw_k //mw^s.kht mhmd_w mhmt_e
-  mw_m^j
+  mwz_m^j
 
 kmt.mks.pskf.ats_wm.pst
 rtl.fks
