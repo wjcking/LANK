@@ -5,7 +5,7 @@ lt^s
   r.n
   rl.vh
 
-	blz:rzs
+	brs.blz:rzs
 
   lr.vts.th
   rl.hw.chf^s

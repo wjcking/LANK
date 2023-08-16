@@ -36,11 +36,11 @@ mts^d
 mds.mgt.kst
 
 abs:ats:trs.k^l
-sk.abt //urseal:lily
+abt //urseal:lily
   aps.d //o
   abs.k:kt //oe ao
   abs.lt//w
-sk_a^p:
+skt
 
 //贝欧斯克 一元对决
 mgt.kmt^x:th:msk.l:bsk_o.l

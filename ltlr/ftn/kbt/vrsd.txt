@@ -7,7 +7,7 @@ sls_ae^c.args
 		snlus.slnsz^jxs_g:sls^sh
 	kldr
 
-  grs_c
+  gls_c
 		//hlk_en.skr_eou
 		//laos.burma.miadian
 		//atv.una_sha.tal_nd

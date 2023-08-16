@@ -1,13 +1,15 @@
 ﻿/*
-*空间:平行 立(ist) 体
+*空间:平行 立 体
 *莱昂尼克
 */
 iank:ltlrs
 
-ist:isak
+ist.iank
+ist.kst
+ist.tri
+
 tsn.dsn.fsn
 mks:msd
-
   fsn
     fn:fx
     ft
@@ -16,8 +18,7 @@ mks:msd
     fl^t.al:flc.an:flk.an.w
   hbe:nm
 
-  ist.iank
-  ist.tri
+	ist:isk
   its.tsi
     //slt^d.trc.ktr
     trs

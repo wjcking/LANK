@@ -16,6 +16,7 @@ ats.r
 ats.k
 arst
 	ats.tk
+		atf.s
 	atsk
 astk
 
