@@ -1,6 +1,5 @@
-﻿
-jxs.jlt_e
-jns 
+﻿jxs.jlt
+jns.ak
   are^gzh^s
   //adv_w^c
   are.jsk
