@@ -1,19 +1,18 @@
-﻿vrsd
-sls_ae^c.args
-	krls
-		vrsk
-		glsdn.blsgn
-		flkrs
-		snlus.slnsz^jxs_g:sls^sh
-	kldr
+﻿vrsk.vrsd
+krls
+	klsdn.glsdn.blsgn
+	klst.flkrs
+	snlus.slnsz^jxs_g:sls^sh
+	sls_ae^c.args
+	ulxs.jts.lxa
+kldr
 
-  gls_c
-		//hlk_en.skr_eou
-		//laos.burma.miadian
-		//atv.una_sha.tal_nd
+gls_c
+	//hlk_en.skr_eou
+	//laos.burma.miadian
+	//atv.una_sha.tal_nd
     
-    krea_h_o
-		kx_eo
-		kna_ml
-  gts_aou.atr
-ulxs.jts.lxa
+  krea_h_o
+	kx_eo
+	kna_ml
+gls.d

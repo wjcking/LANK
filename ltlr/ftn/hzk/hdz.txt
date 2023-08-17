@@ -4,7 +4,7 @@ fts_z:rsk.c.lsk
   mth:fsh^ank
   ltlr.kmsk.brts.knfs
     //thead stack function
-    dth.kst.l 
+    dth.kst.l
     nl:url:ulv
 		    
     //knt_e.tlm:255.2b2f

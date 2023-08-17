@@ -4,7 +4,7 @@ hxs.rl.ats.wts.ftn
   //hrk_m
   hzk_th_ch
 
-  hlx.ltfs.hdz //队阶
+  hlx.tfs.hdz //队阶
   hlx.lnt.cht.hxs //平行 
     
   lnt^skt

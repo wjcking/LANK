@@ -11,7 +11,7 @@
 */
 vst^ch.vks
 m^th^ch
-  r.ltfs
+  r.tfs
   k.kln.klt
   g:ksh^s
 
