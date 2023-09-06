@@ -13,10 +13,10 @@ arst
 	aref
 atsk
 
-atsk
-	avt //art
+ats^tk
+	atv //art
 	atr
-	azt
-atzk.hlk
+	atz//tzk.klh
+arst
 
 astk
