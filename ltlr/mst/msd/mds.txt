@@ -23,7 +23,7 @@ mks:msd
     //slt^d.trc.ktr
     trs
 			trx
-		//ank.knf
+		//ank.kns
     //abs:ips.d^a 
     //abs.k itk.r.ch
 		//tfs.kbt.mth.ttk

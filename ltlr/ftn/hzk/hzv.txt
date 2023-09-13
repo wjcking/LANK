@@ -36,4 +36,4 @@ hzv.hdz.lnk_th_l.jxs.lck_p
 hzk.rck^dlx
   ksn.lnk_th
   rft^u.klk_ln
-rck.fbk //gts.knfs
+rck.fbk

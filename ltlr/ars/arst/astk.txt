@@ -10,5 +10,5 @@ dsn
 arst.slk^d.rkb
 krf
 	kld_aln
-	sld_aln
+	kls.dls	//sld_aln
 krt

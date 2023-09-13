@@ -20,12 +20,9 @@ i //its
 // t i ti
 ti.iank 
 //trs:s
-//ltlr.brts.knf
+//ltlr.brts
 t.s
-  k
-  f//
-  n
-  l.iank
+
 i //ltlr.ats
 
 //rl.ats

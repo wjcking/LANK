@@ -3,21 +3,21 @@
 *1234567890 abc 钫得 한국어 にほんご 
 *Charlet:Rossita Karolet
 */
-atls.abt^er.brts.knf
-wad.hlgt
-wap.asnk
-wab.st:kat.ltb
-  wk_o
-  wc_o
-  wls.vds.krl
+atls.abt^er.brts
+vad.hlgt
+vap.asnk
+vab.st:kat.ltb
+  vk_o
+  vc_o
+  vls.vds.krl
 
-  wed_a
+  ved_a
     smp_n^bl.skr^y
-  wab.hlkt
+  vab.hlkt
 
   vwr.kest_a.vrsk
   enk_s
-wed_or
+ved_or
 
 ltlr.kbt:knr.lst
 tsn

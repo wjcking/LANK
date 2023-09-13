@@ -2,8 +2,8 @@
 atv.vts //ftn.kbt.lnch_e
 
 etx^s //lnchys E lnk.smt
-etc	//eches.c
-ets //lvk E pst.knt atv.esh
+exc	//eches.c
+exs //lvk E pst.knt atv.esh
 
 rst^v //Ee vrsk
 atv
@@ -14,7 +14,7 @@ atv
 	esh_pch^r.abrs.abts
 	vgs.gzh.ntk
 
-	etx_c
+	exc
 	//knt.vts.pst.krf E
 		ltls
 		atl_nl

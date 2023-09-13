@@ -12,7 +12,7 @@
 */
 fln.c
   mit:snt //sld^a
-  mik.ary    
+  mik.ary
 flk
 
 //人类视觉:平行面维 开米特 :面先边显

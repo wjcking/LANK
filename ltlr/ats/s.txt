@@ -5,7 +5,7 @@ ats
 	atk.kts
 
 	tfs.atf.ftn
-	fk^a.knf
+	fk^a
 aks
 
 s.tk.atr.sh
