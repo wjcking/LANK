@@ -11,13 +11,12 @@ fls
   lk.an
 hbe
 
-//艾丝可 人类:视绝:干决 无
-lst.kst.li
+
 //立 体 边
 tab.ary
 kl.trk.bts
 
-mtk //o
-  band.ary 
+mtk 
+  band.ary //bde
   dut^s.aut
 mdk

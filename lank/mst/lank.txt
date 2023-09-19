@@ -22,4 +22,9 @@ kst-ist
 
 tsn
 fsn:hbe //f-k-i.irk-a
+ksn.iank
+ksn
+	mst
+	mks
+kns
 dsn.mst.itlrs

@@ -1,9 +1,9 @@
 ﻿ats.ates
 atv.vts //ftn.kbt.lnch_e
 
-etx^s //lnchys E lnk.smt
-exc	//eches.c
-exs //lvk E pst.knt atv.esh
+etx^s.lnchys //E lnk.smt
+exc.etxc:eches
+exs.etxs:esh //lvk E pst.knt atv.esh
 
 rst^v //Ee vrsk
 atv

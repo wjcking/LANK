@@ -8,7 +8,8 @@ ist.iank
 ist.kst
 ist.tri
 
-tsn.dsn.fsn
+tsn.ksn.dsn.fsn
+
 mks:msd
   fsn
     fn:fx
@@ -18,7 +19,7 @@ mks:msd
     fl^t.al:flc.an:flk.an.w
   hbe:nm
 
-	ist:isk
+	ksn:ist:isk
   its.tsi
     //slt^d.trc.ktr
     trs

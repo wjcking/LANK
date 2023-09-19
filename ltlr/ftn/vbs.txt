@@ -9,7 +9,7 @@ vap.asnk
 vab.st:kat.ltb
   vk_o
   vc_o
-  vls.vds.krl
+  vls.dls.krl
 
   ved_a
     smp_n^bl.skr^y
