@@ -1,31 +1,16 @@
-﻿iank.kst.l
+﻿iank
 
-//iank
-//
-//tsn:m
-//mst:tkn
-//msd:stk_sh_w
-//mts:tsi.k
-//mts_ch:tls_e:lank
-//
-//ltls.t.k
-//ltlr.kst
-//rl.tri^skr.vsd
-//ank.krs
-t
+kst
+ltls.t.k
+ltlr.lsk
+rl.tri^skr.vsd
+rl.ank.krs
 
-//iank.i
-//slt:t:s:l
-//mth:msd:stk_sh_w
-//mch:kst:ats
-//  isak
-//ltlr.s
-//rl.ank
-i
+tns.kns
+mst:tkn
+msd:stk_sh_w
+mts:tsi.k
+mts_ch:tls_e
+tsn:m
 
-//st si si.t 
-//s.t
-//t
-//  s si 
-//i
-s
+lank

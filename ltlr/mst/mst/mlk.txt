@@ -39,6 +39,6 @@ ats.tri^skr
 	//ank.kns
   //abs:ips.d^a 
   //abs.k itk.r.ch
-	//tfs.kbt.mth.ttk
+	//tfs.kbt.mth.tkt
   trk
 atc

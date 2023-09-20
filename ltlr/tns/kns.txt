@@ -1,12 +1,10 @@
-﻿iank.skt
-lank.stk.skr-kl
-
-ist:s
-s.tri
+﻿//k.ist
+//k.itls.bst
+tns.kns.krs
 
 s.k
 t
-	stk.skt
+	stk //skt
 	skr-kl
 r
 
@@ -18,5 +16,3 @@ k.l
 	//rl.tir^d
 	lsk
 s
-
-
