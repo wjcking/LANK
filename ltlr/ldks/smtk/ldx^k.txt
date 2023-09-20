@@ -1,6 +1,6 @@
 ﻿ /*
 *赛门铁克
-*斯文莱特. 原始:起源 型别 初性  性比
+*斯文莱特. 原始:起源 型别 初性 性比
 *Symantek:Keris
 *friskea-wistron.html
 */
@@ -32,7 +32,7 @@ atc //fgt^slf^o.lsk^d.kl
       cht^k //nts^kc !!!
     ksh_al
   lbt_n
-knfs.c
+brts:c.f
 
 msh.kth.abt^r.abs
 

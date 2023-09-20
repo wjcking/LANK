@@ -1,8 +1,8 @@
 ﻿lank.krlst^c
 
-//信息素  Fernando
+//Fernando信息素
 // flz.fsk    
-//tnl.anl 
+//tnl.anl
 ars.abrs:aks.ats.sks
   abeds:slk_nl:args
   abs:ab_p.sk //msd

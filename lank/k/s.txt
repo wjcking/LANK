@@ -6,7 +6,8 @@ s.tri
 
 s.k
 t
-	stk.skt.skr-kl
+	stk.skt
+	skr-kl
 r
 
 s-kst

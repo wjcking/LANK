@@ -4,9 +4,8 @@ rtl.ltls
 lt^s
   r.n
   rl.vh
-
-	rzs:blz.brs
-
+	//vls:blz.brs
+	rzs
   lr.vts.th
   rl.hw.chf^s
 rl.ltbs

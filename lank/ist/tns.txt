@@ -1,6 +1,6 @@
 ﻿//lk:n ri rr
 //k.ist
-//k.bsk
+//k.itls.bsk
 tns.kns
 t 
   //its

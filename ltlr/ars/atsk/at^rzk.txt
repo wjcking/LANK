@@ -1,4 +1,10 @@
-﻿atr^d:sh tx zh ch th
+﻿atr^d
+	sh
+	tx
+	ch 
+	zh 
+	th
+rzk
 
 位塞(铯)忑 
   开出扯^差^卡^折 //kai  chu che cha

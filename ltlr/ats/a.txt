@@ -4,6 +4,7 @@ i
 	ist
 	tsn:tri
 		tsi
+		tsr.l
 	tsa
 t
 
@@ -19,8 +20,6 @@ a
 k
 t.r	
 	k
-		kns
-		ank
-		krs
+		//ank.krs
 	i
 t.n

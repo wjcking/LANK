@@ -1,21 +1,23 @@
 ﻿iank.kst.l
 
 //iank
+//
 //tsn:m
 //mst:tkn
 //msd:stk_sh_w
 //mts:tsi.k
 //mts_ch:tls_e:lank
 //
-//rl.tri^skr
+//ltls.t.k
+//ltlr.kst
+//rl.tri^skr.vsd
 //ank.krs
-//vsd:tricycle:sanjiao
 t
 
 //iank.i
 //slt:t:s:l
 //mth:msd:stk_sh_w
-//mch:ank:ats
+//mch:kst:ats
 //  isak
 //ltlr.s
 //rl.ank
