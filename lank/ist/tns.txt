@@ -1,5 +1,7 @@
 ﻿//lk:n ri rr
-
+//k.ist
+//k.bsk
+tns.kns
 t 
   //its
   //rl.flat.tricycle

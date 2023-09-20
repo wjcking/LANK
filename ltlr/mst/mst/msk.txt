@@ -1,10 +1,7 @@
 ﻿/***没 立***/
 ist.iank
 its.lank
-
-tsn.ksn.kns
-ksn.kst
-ksn.lank.kst
+ksn.tsn
 
 //立 面 么
 //水及(交)类人仨 来 台
@@ -34,3 +31,14 @@ kst:flt.ksl^z
 kst:atk
 //atk:ank
 rl.tri.skr^o:ank
+
+ats.tri^skr
+  //slt^d.trc.ktr
+  trs
+		trx
+	//ank.kns
+  //abs:ips.d^a 
+  //abs.k itk.r.ch
+	//tfs.kbt.mth.ttk
+  trk
+atc
