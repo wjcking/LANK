@@ -9,17 +9,21 @@ ist.kst-l
 b.slt:l.c.kct
 b:bst
 
-ldks.kb_nr
+/*
+*keb.kab:ked.kad
+*kab:sake:bsk //nr^o
+*  kab.rt
+*  kab //r    
+*kst^il
+*/
+kdks
+idks.kb_nr
+itl:mkr:knr
 
-keb.kab:ked.kad
-kab:sake:bsk //nr^o
-  kab.rt
-  kab //r    
-kst^il
+/****ltlrs****/
 
-//kaz
-//kht
-//fk
+//land
+lank.ltlr.lts^w
 
-//kzt_h_l:ltl_r
-//tzk_lh
+//lsk.c
+ltls
