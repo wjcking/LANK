@@ -13,12 +13,12 @@ b:bst
 *keb.kab:ked.kad
 *kab:sake:bsk //nr^o
 *  kab.rt
-*  kab //r    
+*  kab.lr    
 *kst^il
 */
-kdks
-idks.kb_nr
-itl:mkr:knr
+kd^ks
+kb_nr.idks
+knr:itl:mkr
 
 /****ltlrs****/
 
