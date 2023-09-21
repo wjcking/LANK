@@ -33,9 +33,9 @@ kst:atk
 rl.tri.skr^o:ank
 
 ats.tri^skr
-  //slt^d.trc.ktr
   trs
-		trx
+		trx //slt^d.trc.ktr
+		trc.tfc.chf
 	//ank.kns
   //abs:ips.d^a 
   //abs.k itk.r.ch
