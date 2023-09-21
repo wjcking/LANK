@@ -1,7 +1,6 @@
 ﻿/*
 *
-*1234567890 abc 钫得 한국어 にほんご 
-*Charlet:Rossita Karolet
+*12345678 90 abc 钫得 한국어 にほんご 
 */
 atls.abt^er.brts
 vad.hlgt

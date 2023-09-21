@@ -19,12 +19,17 @@ lst_l.slt_al
   mlst_hlgt:ltl^r 
 
   km^tx
-    //ktln4
 		//btv.k:rl
-    msd.mls.mgt.sld_a.rmw
-      krf3.kent:7t 1x l_y z zh
-      klf4.kmk^t:
-    slk.ank.rsk
+    //rsk slk.ank 
+		brts:7x 1t l z //y
+    mds.mlk.mgt
+    krf3.knt^e
+    klf4:fks.lks
+			mmz.j:kmtx
+			nnz.j:kmtx
+			mnz^lt:atz.etx
+		kmk^t
+		ksl4^ale	//ktln4
   kmt:kat_e^d
 alk
 

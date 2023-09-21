@@ -7,7 +7,7 @@
 *		lymphatic
 *		muscular
 *		fks
-*			integumentary, skin, hair, and nails, among other areas皮肤
+*			integumentary, skin, hair,  nails, among other areas皮肤
 *
 *atsk.atr
 *		skeletal

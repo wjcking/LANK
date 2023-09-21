@@ -1,6 +1,7 @@
 ﻿bsh_al_n
-hsh_ln
-hlsh_a
+shs
+shb_a
+shl_e
 沙哈巴
   和来可.克拉和与(若,右)同士元(刃)
   拉合尔.和余同.人十元:类人远  应出
@@ -21,7 +22,7 @@ hlsh_a
 沙赫仑
 
 brs.hdr.rd
-  hsh:wgs:hsh_k
+  shs:wgs:hsh_k
   lhr
   klh
 	lvch
