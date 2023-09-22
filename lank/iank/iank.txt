@@ -9,9 +9,6 @@ i.t
   s
 l
 
-ist:t,t=i,i=t
-//rl ti it
-
 t
   s
   s.iank
