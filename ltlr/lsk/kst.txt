@@ -9,7 +9,7 @@ tri
   //f.ats
   //tai:tasi
   //tei:tesi
-tsi
+tzi //tsi
 
 kst^r //de
 isk.kst.l

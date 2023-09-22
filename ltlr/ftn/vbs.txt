@@ -11,7 +11,7 @@ vab.st:kat.ltb
   vls.dls.krl
 
   ved_a
-    smp_n^bl.skr^y
+    //smp_n^bl.skr^y
   vab.hlkt
 
   vwr.kest_a.vrsk

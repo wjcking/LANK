@@ -18,8 +18,7 @@ ksn.tsn
 //
 //贝欧丝克:唉可仨丝[K]伯区司卡 没卅地丝
 //艾昂尼克
-kst.bst
-bsk^ol
+kst.bst^ol
 //艾丝可 人类:视绝:干决 无
 lst.kst.li
 l.f
@@ -29,8 +28,11 @@ ilk //E
 
 kst:flt.ksl^z
 kst:atk
-//atk:ank
-rl.tri.skr^o:ank
+
+trl^k
+	atk.mth
+	ank.rl
+tri^skr
 
 ats.tri^skr
   trs

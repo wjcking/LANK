@@ -1,14 +1,13 @@
-﻿k:kst:kb_nr
-m.ks
-ltl:mrk:knr
-
+﻿k:kst
+kd.ks
+kb_nr
 //kl.skr
 k
   kl_r_a
   skr:rlc.sa_i
 r
 
-//lan_nd
+//land
 lts_w
 
 //k^b_nr
@@ -23,3 +22,10 @@ ltl_r.kd.nk.lan
   rl
   mch.r:lk_wo
 mkr
+
+knr:itl:mkr
+tzc^l
+	atr
+	xzn
+	rcs
+trx

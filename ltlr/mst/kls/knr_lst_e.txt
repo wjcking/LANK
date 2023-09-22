@@ -20,11 +20,11 @@ lst_l.slt_al
 
   km^tx
 		//btv.k:rl
-    //rsk slk.ank 
-		brts:7x 1t l z //y
     mds.mlk.mgt
+		brts:7x 1t l z //y
+		krs:r.f.l
     krf3.knt^e
-    klf4:fks.lks
+    klf4
 			mmz.j:kmtx
 			nnz.j:kmtx
 			mnz^lt:atz.etx
