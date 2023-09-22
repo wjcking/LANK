@@ -13,6 +13,6 @@ ark^c
 lsk^a.lsk_ewo
 
 //几河卡 厄
-ats.trs.gjr
+ats.trc.gjr
 art.rzk
 ad_das_yq

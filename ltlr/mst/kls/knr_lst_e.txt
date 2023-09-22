@@ -22,7 +22,7 @@ lst_l.slt_al
 		//btv.k:rl
     mds.mlk.mgt
 		brts:7x 1t l z //y
-		krs:r.f.l
+		krls:r.f.l
     krf3.knt^e
     klf4
 			mmz.j:kmtx

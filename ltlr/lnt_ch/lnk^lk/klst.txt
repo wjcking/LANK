@@ -19,20 +19,20 @@ ptk.krf_m
 *keypoint
 */
 atf.afr_ow:r_ani.l_ivy.irf_w
-  jts.sls:itb-s:~,-,^ //svlt
-    idx,klr_cae
-    //ayrister
-    itlr.itfs:irst:
-    pskf.past.pst
-    pad_n.atz^w.its
-      knt_e.pst.rtf^d.kst^al.stk //const_expr
-      dtf
-        kbt
-        lst_ao
-      k^y.pt_in
+jts.sls:itb-s:~,-,^ //svlt
+  idx,klr_cae
+  //ayrister
+  itlr.itfs:irst:
+  pskf.past.pst
+  pad_n.atz^w.its
+    knt_e.pst.rtf^d.kst^al.stk //const_expr
+    dtf
+      kbt
+      lst_ao
+    k^y.pt_in
 
-      ch_wi.nat_o
-      cst_n
-    fatn_ni
-    lk.lnk.klt
-  kst
+    ch_wi.nat_o
+    cst_n
+  fatn_ni
+  lk.lnk.klt
+kst
