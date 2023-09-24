@@ -1,40 +1,12 @@
-﻿tns.kns:ink:rk:lk
+﻿
+trs
+	trx //slt^d.trc.ktr
+	trc.tfc.chf
+//ank.kns
+//abs:ips.d^a 
+//abs.k itk.r.ch
+//tfs.kbt.mth.tkt
+trk
 
-t.iank
-//ksk:ti
-//rl.isk.lvsh.tstksh_k_un:mst_d
-
-t:tri:kri:i
-t:tzi:krs:i
-
-//it.tk.i
-//itb:r l ld^t
-trk.skr
-tkn
-
-t.lank
-tli.iank
-//tl.n:rl.itl
-//tsl.rl:ch.sh.d
-//istk^d
-t:tri.tl:i
-t:tzi:tls:i
-
-tlk.i.lnk
-t:tl:kl^i:i //r.ln a
-t:tls:kls:i
-
-//rl.o
-//mch.l
-tk_sh^w 
-
-trs:tri:tzi
-t:r.s
-  //krt.trt
-
-  //vst_al:kst:slt_ea
-  //slt.vst:un
-  //tuk^t slt
-  tri.n
-  tzi.n
-i
+ats.tri^skr
+atc

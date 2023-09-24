@@ -1,5 +1,4 @@
-﻿
-ti.iank
+﻿ti.iank
 tns
 t 
   //its

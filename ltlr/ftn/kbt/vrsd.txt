@@ -9,8 +9,8 @@ kldr
 
 gls_c
 	//hlk_en.skr_eou
-	//laos.burma.miadian
-	//atv.una_sha.tal_nd
+	//georgia.laos.burma.miadian.tal_nd
+	//atv.una_sha
     
   krea_h_o
 	kx_eo

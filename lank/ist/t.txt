@@ -2,15 +2,10 @@
 
 kst
 ltls.t.k
-ltlr.lsk
+
 rl.tri^skr.vsd
 rl.ank.krs
 
 tns.kns
-mst:tkn
-msd:stk_sh_w
-mts:tsi.k
-mts_ch:tls_e
-tsn:m
 
 lank

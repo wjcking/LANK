@@ -1,9 +1,5 @@
-﻿Karblend
-  [Mik]
-  [Kar]Karrect.Textural.StringStart.Kamit
-LentKarrect
-
-Habit ImeInput 
+﻿// [Kar]  [Mik]Karrect.Textural.StringStart.Kamit
+//Habit ImeInput 
      
 vrsd //WsyreckUtizual CarowletDifference
 ant:mts //RequireLong.SnickTimes
@@ -13,11 +9,3 @@ hzk_lng //AnalyticHindered.//HistoryInternet.Collect
 //dkbt_ae
 asak.trs.lvsh_n //Redraw
 dpt.itlr
-
-tfs
-  ftn_a:fag_n:chf_ueo
-
-  kpt_n^k
-    nks
-  bsk
-dkbt

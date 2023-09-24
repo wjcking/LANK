@@ -1,4 +1,6 @@
 ﻿iank
+kns:tns
+
 itl
-	mch:kst:ats
-ltl.i.a
+i:a
+
