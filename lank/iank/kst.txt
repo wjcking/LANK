@@ -6,11 +6,3 @@
 ist.stk.kst
 
 tns.kns
-t:r.s
-  //vst_al:kst:slt_ea
-  slt.vst:un
-  //tuk^t slt
-  trt
-  tri^n
-  tzi^n
-i

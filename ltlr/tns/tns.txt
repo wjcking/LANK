@@ -1,10 +1,10 @@
-﻿//lk:n ri rr
-
+﻿
+ti.iank
 tns
 t 
   //its
   //rl.flat.tricycle
-  tri.n
+  tri
 	//ist.tsi
 	//
   //rl.ivsh.n
@@ -17,6 +17,5 @@ i
 tri
 i
 
-ti.iank
 tzi
 i

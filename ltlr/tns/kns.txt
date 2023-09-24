@@ -1,6 +1,11 @@
-﻿//k.ist
+﻿tns.kns.krs
+
 //k.itls.bst
-tns.kns.krs
+k.ist
+//lk
+n:ri:rr
+
+s-kst
 
 s.k
 t
@@ -8,11 +13,9 @@ t
 	skr-kl
 r
 
-s-kst
-
-k.l
+s
 	//lnks
 	//rtl.sit.krt.rkb
 	//rl.tir^d
-	lsk
-s
+	//lsk
+k.l
