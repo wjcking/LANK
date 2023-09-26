@@ -1,7 +1,12 @@
 ﻿
-trs
-	trx //slt^d.trc.ktr
-	trc.tfc.chf
+trs^l
+	trx
+		axs
+		ltxs
+	trc //slt^d.trc.ktr
+		fls
+	chf
+
 //ank.kns
 //abs:ips.d^a 
 //abs.k itk.r.ch

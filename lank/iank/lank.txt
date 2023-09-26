@@ -5,12 +5,6 @@ k
   kd.ks-itls  
 bst
 
-//krs-itlrs
-slt-l.knt-m
-lsk.rks
-  knt-ifk-rck-lnd
-vsk
-
 ist
   irk.knt-skr
   ilk
@@ -18,4 +12,9 @@ ist
   lst.isk.iank
 ink.lnd.lank
 
-kst-ist
+//krs-itlrs
+kst-l.knt-m
+lsk.rks
+  knt-rck-lnd
+vsk
+

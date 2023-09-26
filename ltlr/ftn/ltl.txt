@@ -11,9 +11,9 @@ intellyer@eclipso.email intellyer20010101
   SMTP-Server: 	mail.eclipso.de (Port: 587, Verbindungssicherheit: SSL)
 
 /*
+*intel
 *https://app.infinityfree.net/accounts/epiz_32191325/login
 *https://filemanager.ai/new/#/c/185.27.134.11/epiz_32191325/eyJ0IjoiZnRwIiwiYyI6eyJwIjoiYWhCSHV2SnA4YiIsImkiOiJcLyJ9fQ==
-*http://intel.great-site.net/
 */
 InfinityFree Requre:www
   intellyer@outlook.com
@@ -29,7 +29,6 @@ InfinityFree Requre:www
    Password: lH2KI1fBY3f96h
   MySql: sql202.epizy.com Port:3306
   WebsiteIP:185.27.134.179
-  
 
 //https://gitee.com/intellyer
 
@@ -37,22 +36,8 @@ InfinityFree Requre:www
 //http://www.bertis.byethost22.com
 
 
-Intellyer:Annitelly
 
-Paskeful-Colourful
-  Piroity 
-  Utility
-  Sequalet
-  Kounte?:Meydas:Qualify:Fluctuate
-  Eloquent:Sequence
-  Fluctuation
 
-Mantes
-Kesset // Syncek
-  Stick Colorik Stack
-/*
-*Attrait,Andyuser:Properties,Attributes
-*/
 Beorick,Capabled,Kountable
   Required.Annitelly
     Forced Beyined Balanced,NotIncluded
@@ -65,56 +50,9 @@ Meylouk
 
 Meylink
 
-Lisodek:Lysodek
-  Lisoc,Isodeck,Lisode
 
-Karyact
-Karolet:Karelot-Charlet:Rossita
-
-Ayric Eric
-Ayria Ayrilia Eyrilia// 艾瑞利亚 Eyria
-
-Dcibt
-Cybert
-  Systemed
-    Enbreaked
-    Escaped:SystemOrginated 
-    Spaced
-  Cybert
-    Singlet Cybert Segyet
   Word
     Nouns, Pronouns, Adjectives, 
     Numerals, Verb, Adverbs, 
     Articles, Prepositions, Conjunctions, 
     Interjections, Auxiliary
-Artleniz
-  Averylock
-  Ayebert.Basement  
-  Ayebert.Componet:Basement
-    Carow,Preditor,DrualColumns
-    Artlisense
-    //BlockLender GraphBuilder   ParallelScalable PhotoPainter
-Fontain
-  Harykert
-  
-  Hellyget
-Civiliet
-Enkelic.Eric.Karect  
-     Simit*?AveryLock
-      Single,Centetralling
-    Factor
-      Fector 
-    Levider:Lector
-      Vector 
-    Aytes
-      Arkes //Aks
-      Kolor.Kaler
-    Komet:Cayde
-Asckor
-  Enkelic.Kelysdon.Asckor.ByteHex
-Heykes
-Carowlet
-Ccskie
-Kelysdon
-Deposit
-  File.Crdms
