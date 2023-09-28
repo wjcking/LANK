@@ -29,7 +29,7 @@ ltlr:kn_r:kbnr
 kmt.mks.pskf.ats_wm.pst
 rtl.fks
 //lank.lsk^d.f.slk.afk:kmt.tzk
-//wgs:korners^c angles_k:lady may flat^is_z
+//wgs
 //  mw_m^j^
 //wms.nlk_s_m.flt_ast.dk
 fk.a:kat_e^d //nk_an:annk
