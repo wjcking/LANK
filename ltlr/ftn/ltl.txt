@@ -34,25 +34,3 @@ InfinityFree Requre:www
 
 //http://cpanel.byethost22.com/
 //http://www.bertis.byethost22.com
-
-
-
-
-Beorick,Capabled,Kountable
-  Required.Annitelly
-    Forced Beyined Balanced,NotIncluded
-  Optioned
-    Timesnically,NotIncluded
-  Not:HumanBeyined.Sequalet,Annitelly //一元对决，甲骨.文字.型状:不与
-    Leonic.Beyined.Annitelly
-    Abborn.Absock.SoloOne
-Meylouk
-
-Meylink
-
-
-  Word
-    Nouns, Pronouns, Adjectives, 
-    Numerals, Verb, Adverbs, 
-    Articles, Prepositions, Conjunctions, 
-    Interjections, Auxiliary

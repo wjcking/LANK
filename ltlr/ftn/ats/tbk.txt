@@ -1,12 +1,9 @@
 ﻿tns.kns
 //lk:n:t
 
-tsi
-  s t i:n:m:l
-slc:ks.n.sh
-  t s 
-slk:rl //mlw^o r:icr:rcs
-  s.n.h  t
+tsi.a s t i:n:m:l
+slc:ks.n.sh  t s 
+slk:rl  s.n.h  t//mlw^o r:icr:rcs
 
 itlrs:vst:nu 
 ltls_r:tas_eou_l:tes_l_a
@@ -18,7 +15,7 @@ tnk.ibt
   kntx^btx^n
 tuk:trx
 
-snt.lsk^a
+lsk^a
   knt^e //mts.wns^a rks.was_n.rsh
   znk
-cnk.lsd^c //krt sak bk tk tzk
+lzk^dc //krt sak bk tk tzk

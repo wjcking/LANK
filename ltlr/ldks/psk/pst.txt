@@ -21,7 +21,7 @@
   宇宙
 优先于级别:绝对昱对觉?:梅洛克 
 
-blt:ksh:ksn
+blt:ksh:kzn
   utz^w //W O L
   utlz
   unf_l
@@ -40,6 +40,7 @@ lts^v
   全部:汇聚.关键
 斯纹莱特 
 
+//kns.knt:rpt
 //knt^an
 //knt^ao_ln
 //knt_e
@@ -49,7 +50,7 @@ lts^v
 两术:反应顺序:对接序列,付特
 
 ksh.s
-ksn.s
+kzn.s
 /******/
 顺序:冲夫:夫次.付克.伏特
   单步.列出
@@ -60,7 +61,7 @@ ksn.s
 
 sks^a.ksn
   rft
-    rds:sard^a
+    rds:srd^a
     
     rdf:frd_e
   fld^l^wu

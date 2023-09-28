@@ -1,17 +1,13 @@
-﻿
-trs^l
+﻿trs^l
 	trx
 		axs
 		ltxs
 	trc //slt^d.trc.ktr
 		fls
-	chf
+	tch^x.fks
 
 //ank.kns
 //abs:ips.d^a 
 //abs.k itk.r.ch
 //tfs.kbt.mth.tkt
 trk
-
-ats.tri^skr
-atc

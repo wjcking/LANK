@@ -7,7 +7,7 @@ lt^s
 	vls:blz_d.brs
 	rzs
   lr.vts.th
-  rl.hw.chf^s
+  rl.hw.fch^s
 rl.ltbs
 
 blz_hvy
