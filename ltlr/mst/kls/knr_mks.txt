@@ -23,7 +23,7 @@ ltlr:kn_r:kbnr
   kaz
 
   wms
-    mhw_k //mw^s.kht mhmd_w mhmt_e
+    thk.mhw_k //mw^s.kht mhmd_w mhmt_e
   mwz_m^j
 
 kmt.mks.pskf.ats_wm.pst
