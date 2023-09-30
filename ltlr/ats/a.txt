@@ -2,10 +2,7 @@
 
 i	
 	ist
-	tsn:tri
-		tsi
-		tsr.l
-	tsa
+	tsn
 t
 
 s.t

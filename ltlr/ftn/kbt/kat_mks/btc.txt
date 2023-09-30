@@ -36,7 +36,6 @@ Segyet:Secket
     Numerals, Verb, Adverbs, 
     Articles, Prepositions, Conjunctions, 
     Interjections, Auxiliary
-
   
 //Cybert.Strick:Permute:LeftRight
 //Kelyston.Performance.FileRead:System.IO.FileStream.Seek   //读取超大文本文件

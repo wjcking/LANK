@@ -19,17 +19,16 @@ lst_l.slt_al
   mlst_hlgt:ltl^r 
 
   km^tx
-		//btv.k:rl
     mds.mlk.mgt
-		brts:7x 1t l z //y
-		krls:r.f.l
+	brts.vbs:7x 1t l z y
+	krls:r.f.l
     krf3.knt^e
     klf4
-			mmz.j:kmtx
-			nnz.j:kmtx
-			mnz^lt:atz.etx
-		kmk^t
-		ksl4^ale	//ktln4
+		mmz.j:kmtx
+		nnz.j:kmtx
+		mnz^lt:atz.etx
+	kmk^t
+	ksl4^ale	//ktln4
   kmt:kat_e^d
 alk
 

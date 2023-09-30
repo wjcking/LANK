@@ -1,4 +1,4 @@
-﻿// [Kar]  [Mik]Karrect.Textural.StringStart.Kamit
+﻿//[Kar][Mik]Karrect.Textural.StringStart.Kamit
 //Habit ImeInput 
      
 vrsd //WsyreckUtizual CarowletDifference

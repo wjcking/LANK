@@ -10,7 +10,7 @@ klst_or.rtn
   abs.k
  fsh.lks
 
-wbst.ftn.lks
+vbs.ftn.lks
 
 klsd_en.klz_a
  klz_lao.krs^r

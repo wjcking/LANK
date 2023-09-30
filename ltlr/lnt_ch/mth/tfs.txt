@@ -6,4 +6,4 @@ ltlr.kmsk.brts.knfs.ksn
 hsk:hzk
 hds:hdz
 
-atms.arst.asz:brts.knfs
+atms.arst.asz:brts
