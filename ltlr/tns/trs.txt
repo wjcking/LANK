@@ -1,13 +1,18 @@
 ﻿trs^l
 	trx
-		axs
-		ltxs
-	trc //slt^d.trc.ktr
-		fls
-	tch^x.fks
+	rst.c
+trk
+
+trx
+	fls
+	axs
+	ltxs
+	
+	//tx
+rst^c:h^lx
 
 //ank.kns
 //abs:ips.d^a 
 //abs.k itk.r.ch
 //tfs.kbt.mth.tkt
-trk
+tsh^x.fks

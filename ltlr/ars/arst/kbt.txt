@@ -1,5 +1,5 @@
 ﻿ltlrs.tfs.kbt.tkt
-nts.kzn //ksn.dsn
+tbk.kzn //ksn.dsn
 	ats^m
   arst
   hsk^z

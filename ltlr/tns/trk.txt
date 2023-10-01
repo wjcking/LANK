@@ -1,17 +1,24 @@
-﻿kns
+﻿tns.kns:tsn^k:f.d
+t.r^k
+	trt
+		knt.kmt
+	trs.k
 
-trk
-  t
-  k //rl.pst
-  r.itb.l
-i
+	trk^kst
+		//ksk:ft.fk
+	krk
+
+	ksk^z
+		rst:kst
+	kr.l^s
+ist
 
 //rl.ich.t.k istk.d
 //rl:tst.ksh:ln at^o
 //i:tkn.chk
-trk:l
-  k.kt.r //tlk
-ist 
+trk
+  k.kt
+ti.s 
 
 //trk.krt.istk^d
 
@@ -19,6 +26,6 @@ ist
 //atr:chf^s.fug  jsk fks 
 //ibt.tx
 //tx.q.k^m
-trx
-  k.ktr.krt
+trx:l//tlk
+  ktr.krt.ktl
 i

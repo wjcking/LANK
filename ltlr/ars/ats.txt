@@ -20,7 +20,7 @@ lst
 
 nks.itls
  atk
- ast.k
+ ast.k //dns^so
  ats.k
  ars.t
 kst
