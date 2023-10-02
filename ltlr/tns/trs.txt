@@ -1,4 +1,6 @@
-﻿trs^l
+﻿iank-s
+
+trs^l
 	trx
 	rst.c
 trk
@@ -7,8 +9,9 @@ trx
 	fls
 	axs
 	ltxs
-	
-	//tx
+l.h
+
+//tx
 rst^c:h^lx
 
 //ank.kns
