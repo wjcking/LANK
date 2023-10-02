@@ -1,5 +1,4 @@
-﻿
-vts:fks.rks.lks.aks:arts:asn_th
+﻿vts:fks.rks.lks.aks:arts:asn_th
 vst_ln$szh_gy
   vns:zhk_ln^dr
   vzh^s

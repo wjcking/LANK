@@ -5,7 +5,7 @@
 *结界 宇 打七层 宙
 *星际牵引 可变性
 */
-smtk_a
+mtk_sa
 rkb
 nud_o.sls_n
 bsh.ln

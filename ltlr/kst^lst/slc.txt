@@ -9,6 +9,12 @@ lstk^d
 slc:nks^x
   lan
     ak.jsn
+		tak.int
+		tuk.lnt.kast//7
+			luk
+			fnk
+		tx.ksn
+		
     nik_l
 
     irk

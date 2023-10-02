@@ -5,7 +5,7 @@ trs^l
 	rst.c
 trk
 
-trx
+krx.tx.ch
 	fls
 	axs
 	ltxs

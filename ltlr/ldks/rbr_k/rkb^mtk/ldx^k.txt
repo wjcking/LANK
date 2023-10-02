@@ -12,7 +12,7 @@ fks_e()
   //Atowardiz.Second
   //asn_th
   ats.knd^sal
-  bds_en.rl//Beyines:Booleaned
+  bts.rl//Beyines:Booleaned
   ksk
     lnt.lat
     wts:wth^c
@@ -23,12 +23,12 @@ lnt.mtk.chk
 
 atc //fgt^slf^o.lsk^d.kl
   knx.kts //sakend
-  abt.pst.trs.sxr
+  abt.pst.krs.sxr
     mrk.lnt.chk.krt:msl_n.hdy
     ltlrs.rkb.tap_o  
       sls.nts
       gdy.lys 
-      ets_ksh_al.tkt^prt^k       
+      ltxs_ksh_al.tkt^prt^k    
       cht^k //nts^kc !!!
     ksh_al
   lbt_n

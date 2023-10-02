@@ -13,7 +13,7 @@ klt.lnt
     
   lhr.klh:achs.echs
   lxa.ash_a
-  lxa_e.vls//soviet l*
+  lxa_e.vls//dns.sovet*l
   hlk
     hlx.flc //francis
     hln_k

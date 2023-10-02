@@ -37,7 +37,7 @@ kdks.klsk.hlkt.skr^ary
   mrs         //Red, brown and tan.
   pit.j          //Brown, orange and tan, with white cloud stripes.
   tun^s      //Golden, brown, and blue-grey.
-  uls_w     //Blue-green
+  vls_uw     //Blue-green
   ptu^n     //Blue.
-  plt^ou    //Pluto   
+  plt^ou     
 vsd.annk^n.lts^w

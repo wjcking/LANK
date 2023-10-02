@@ -4,7 +4,7 @@
 // flz.fsk    
 //tnl.anl
 ars.abrs:aks.ats.sks
-  abeds:slk_nl:args
+  abds:slk_nl:args
   abs:ab_p.sk //msd
   ~bl^a.dq.nk
 abz.r.bzklk //jxs

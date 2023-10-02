@@ -3,7 +3,7 @@ kbnr.mks.nks
 ltlr.sld.mkr.msh
 ltlr.lst^o.vsd.itbs
 
-vst:bsd:sab.stu.tud
+vst:bsd//sab.stu.tud
   vsd_al:krt_a:
   ktr:ktl:klt_an_e^d
   vsd_la:krk_a^t:

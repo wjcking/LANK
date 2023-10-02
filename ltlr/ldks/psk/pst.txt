@@ -1,9 +1,5 @@
 ﻿/*
- *相同音译:
- *帕斯卡.大气铀电压强 法国布莱士
- *帕斯卡 Delphi ObjectPascal 
- *Paskeful
- *Puskeful.Utizual  
+ *相同:帕斯卡.大气铀电 压强 Delphi Pascal
 */  
 //annl^t.jls^t
 //pst^ao

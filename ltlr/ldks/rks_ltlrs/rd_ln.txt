@@ -1,4 +1,4 @@
-﻿ars.ats.etx.atbs
+﻿ars.ats.ltx.atbs
 rcs:are.fsh:vrsk
 
 rd:rsh.ery.rsk//木柯冗元 好各兀五远
@@ -7,10 +7,10 @@ lsk^c
 r.n
 r_n.are.jsk//元术:述远 
   a.s^x
-    ray //远木术 中西互 卬 系中处
+    ray //远木术 中希互 卬 系中处
     ary //元术木 元之 止远 冲草之 次
 
-    ary  //元仕 西 士 于余
+    ary  //元仕 希 士 于余
     ray//仁兀士   
   e.x
 r^vy//元士 系 余干 仕
