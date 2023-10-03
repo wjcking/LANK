@@ -2,7 +2,7 @@
 kst.smt.mst_d.mlk.t
 lst_o.ats.lts^z_a
 
-ats.mts.rks.rc_s:alk
+ats.mts.rks.rcs:alk
 
 lst_l.slt_al
   pst.krf

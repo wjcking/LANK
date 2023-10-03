@@ -18,17 +18,20 @@ r.ist
 //i:tkn.chk
 trk
   k.kt
-ti.s 
-
-//trk.krt.istk^d
+i.r 
 
 //tlk.ibts.rfbk.x
 //atr:chf^s.fug  jsk fks 
 //ibt.tx
 //tx.q.k^m
-trx:l.sit.lank//trk
+trx
   ktr.krt
-	ktl.kld
-	
-	ksl^e.kst
-i
+i.r
+
+tls
+	ktl.kld //i.l
+	ksl.kst//i.l.s
+r.ist
+
+trk.krt
+r.ist.kd

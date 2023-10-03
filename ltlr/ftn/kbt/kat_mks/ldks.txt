@@ -24,7 +24,7 @@ Textural:FileContent.Format:Article,Text
     ABCD
     ABC DE FGH
     
-    abt.kat
+    abt.kId
     XXOXXXXOOOXXX
     XOXOXXOXXXOXX
     XXOXXXXOOOXXX
@@ -34,7 +34,7 @@ Textural:FileContent.Format:Article,Text
     10 02 03 04
     10 02 03 04
 
-    Trikode
+    Tkd
     aaa bbb ccc ddd
     qqq eee rrr ccc
     zzz xxx ccc vvv

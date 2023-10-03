@@ -1,8 +1,7 @@
 ﻿iank-kst
 iank-ist
 iank-s
-
-ist:sk.ns_i_sh:itl
+iank-l
 
 //itls
 i.t
@@ -22,6 +21,7 @@ t.s
 
 i //ltlr.ats
 
+//ist:sk.ns_i_sh:itl
 //rl.ats
 //tt t.t rl:lk lik rkb 
 its

@@ -5,14 +5,14 @@ trs^l
 	rst.c
 trk
 
+//tx
+rst^c:h^lx
+
 krx.tx.ch
 	fls
 	axs
 	ltxs
 l.h
-
-//tx
-rst^c:h^lx
 
 //ank.kns
 //abs:ips.d^a 

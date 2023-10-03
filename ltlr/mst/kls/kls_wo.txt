@@ -8,6 +8,10 @@ klr.dzh adv.atsk^hdr
 
 rtl.klsk.ats^m.balsk_c_p
 
+//jts.hlk^tl
+sit.land
+tis.lank
+
 ftn_an.rbk.unvs_r
   blsk_ao  
   rks:vls.chn 

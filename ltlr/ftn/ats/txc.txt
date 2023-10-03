@@ -23,6 +23,7 @@ ank.fl
   knt_ao:mts.flc
     cna:kna:knr^c_ao//测纳
     cr:rk:zk//锐 测力 芮
+
     tk.zn.zh//特 直 则 
     //sna:cr^suna:livk:txzh //所纳 钝  切力 切折 
   slc.fgr.fnk.fc //fn^r
