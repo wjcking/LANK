@@ -14,19 +14,19 @@ trk
 /****knr ltlr*********/
 knr.ltlc
 knr:mlsk.t:ktl.ksl
-ltlr:kn_r:kbnr
+ltlr:knr:kbnr
   t
   wt_h
   ml^s
   kt
 
   kaz
+	
+  wms:mwz_m^j
+	kzk.khk.kmt//tzt
+	
+mks.pskf.ats_wm.pst
 
-  wms
-    thk.mhw_k //mw^s.kht mhmd_w mhmt_e
-  mwz_m^j
-
-kmt.mks.pskf.ats_wm.pst
 rtl.fks
 //lank.lsk^d.f.slk.afk:kmt.tzk
 //wgs

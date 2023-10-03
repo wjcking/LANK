@@ -1,8 +1,4 @@
-﻿k
-  kd.ks-itls  
-bst
-
-ist
+﻿ist
   irk.knt-skr
   ilk
   its.lanks  
@@ -10,7 +6,6 @@ ist
 ink.lnd.lank
 
 //krs-itlrs
-kst-l.knt-m
 lsk.rks
   knt-rck-lnd
 vsk
