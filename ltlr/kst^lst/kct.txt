@@ -15,10 +15,11 @@ kts^z.echs^sh.lxa.itr
 ktz.c
 
 kzt^c.trs^l.rst
-	kzl.lst
-	kzlz.isls
-	kzl.shw
-
-	kzr
-	krkz
 kct.z
+
+kzr
+krkz
+
+kzl.lst
+kzlz.isls
+kzl.shw
