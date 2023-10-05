@@ -12,7 +12,7 @@ rtl.klsk.ats^m.balsk_c_p
 sit.land
 tis.lank
 
-ftn_an.rbk.unvs_r
+ftn.rbk
   blsk_ao  
   rks:vls.chn 
   glck.achs.hmn_eou

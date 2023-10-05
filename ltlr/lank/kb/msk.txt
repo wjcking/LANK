@@ -1,14 +1,12 @@
-wms:mwz_m^j
-
 h.atsk //arst kmt.h.pst.knt_aln3
 h.irk.ilk
 h.iank.tsn
 
 trk.ktr^d
-	kzk//tzt
+	kzk//tzt wms:mwz_m^j
 	khk//mw^s.kht mhmd_w mhmt_e
 		h.kaz
 		h.t.kaz
 	//thk.mhw_k
-	kmt^d.j.msk //ktk:h
+	kmt^d.j.msk.kst^a //ktk:h
 krt^d

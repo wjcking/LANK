@@ -15,7 +15,7 @@ kls_wo.ltlr.knr_wo.kad
     adls^d:vrsk
     dak.kl_aye.rck.slk_wo
   dsn^a
-	dnk
+	dnk.abs
 
   hlk.etx//htk.wmz.kht.blsgn
 ldnk
