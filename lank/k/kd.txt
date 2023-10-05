@@ -2,7 +2,7 @@
 
 k.t
 t //v
-kt  //kt^l.ks_l
+kt  //ist:kst.bst
 
 ist.kst-l
 

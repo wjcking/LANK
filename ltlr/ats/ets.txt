@@ -1,7 +1,7 @@
 ﻿ats.ates
 atv.vts //ftn.kbt.lnch_e
 
-ltxs^y //etx^s.E lnk.smt
+ltx^s.y //etx^s.E lnk.smt
 echs//exc.etxc:
 esh//exs lvk E pst.knt atv.esh
 

@@ -12,7 +12,7 @@ js
   //adv_w^c
   //are.jsk
 	//ate
-ak.etx
+ak.ltx
 
   //jls^w
 	//jlt_a
