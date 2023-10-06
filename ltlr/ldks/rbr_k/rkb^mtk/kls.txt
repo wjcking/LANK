@@ -15,7 +15,7 @@ r
   //tsl.trz
 l
 
-ats.etx.k
+ats.ltx.k
 t.l
   krt.smt
   tst^a.msh.smt^r

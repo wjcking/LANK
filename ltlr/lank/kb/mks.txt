@@ -4,8 +4,9 @@
 //kt.kns.l:tk
 //tls_ln
 
-land.msk:mwz.mhmt
-land.hlk
+//land
+kls.msk:mwz.mhmt
+kls.hlk
 kzt
 	wt_h
 	ml^s

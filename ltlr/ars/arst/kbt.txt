@@ -3,7 +3,9 @@ tbk.kzn //ksn.dsn
 	ats^m
   arst
   hsk^z
-vls.ats
+	atsk
+vls
+
 
 //vls.vgs.msl_m
 //arst_ltlrs.tks
