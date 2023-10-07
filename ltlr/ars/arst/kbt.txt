@@ -3,7 +3,6 @@ tbk.kzn //ksn.dsn
 	ats^m
   arst
   hsk^z
-	atsk
 vls
 
 

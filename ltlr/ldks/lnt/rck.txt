@@ -1,8 +1,6 @@
-﻿ltlrs.rtl.rts.knr
+﻿ltlrs:vrsk.mkr
+ltlrs.rtl.rts.krs
 ltlr.lck.rd.bsh.hsh
-
-ltlrs:vrsk.mkr
-brts.klfs
 ltl^s.ats.kst^a
   l_i
   f_ks.avl_on

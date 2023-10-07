@@ -23,8 +23,6 @@ ltl_r.kd.nk.lan
   mch.r:lk_wo
 mkr
 
-knr:itl:mkr
 txh
 	xzn
-	rcs
-trx
+rcs.kct

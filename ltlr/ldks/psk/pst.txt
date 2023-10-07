@@ -57,7 +57,7 @@ kzn.s
 
 sks^a.ksn
   rft
-    rds:srd^a
+    rds:srd^a.dls^z
     
     rdf:frd_e
   fld^l^wu

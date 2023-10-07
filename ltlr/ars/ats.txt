@@ -19,8 +19,8 @@ itb.nts
 lst
 
 nks.itls
- atk
+ atk//rl.ank
  ast.k //dns^so
- ats.k
  ars.t
+ ats.k
 kst

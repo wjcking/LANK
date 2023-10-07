@@ -1,13 +1,11 @@
 ﻿k:iank
-kb_nr
 
 i.ist
 	ark.alk //afk
 a.ast.k
 
-kd.pst.trk
-/****knr ltlr*********/
-knr.txh
+kd.pst.trk //kb_nr
+txh
   t
   wt_h
   ml^s
@@ -18,9 +16,4 @@ knr.txh
   kaz
 	//afk
   wms:mwz_m^j
-kbnr	
-
-msk:kzk.khk.kmt//tzt
-knr:mlsk.t:ktl.ksl
-mks.pskf.ats_wm.pst
-mts:mks:mds_l:blk^s_o:ltl
+kct

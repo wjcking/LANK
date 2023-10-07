@@ -1,7 +1,7 @@
 ﻿mchs.t:fks_w
 pst.ft_w.vrsk
 
-arst.atr_lr_o
+rst^a.atr_lr_o
 pskf^u.skn_shal:lvsh,lsn_en^d
 rks:jxs:args^l
 
