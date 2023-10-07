@@ -1,14 +1,12 @@
 ﻿lank.kst.lsk
 //kst^d
-//rl.atu.jkt.ats
+//rl.atu.ats
 //ist^ln.k^d lsnk_e
-//rl.ejksn.etx
-//mch.shw.tk
+//rl.ltx
 tri
   trt //trit:tri.ezk^shn^j.t:f
-  //f.ats
-  //tai:tasi
-  //tei:tesi
+	tuk
+	tsl
 tzi //tsi
 
 kst^r //de

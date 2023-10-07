@@ -5,14 +5,14 @@ ltlrs.rth.nk.an
     rkb.ksk.enks //1-n
 	apk^oqbqd
 	vsd.rft-kint:hard
-//air~vapour~water~liquid~?iceheat~?~metal
+	//air~vapour~water~liquid~?iceheat~?~metal
   vzd-rtn:
-//light.eluminate.spheresupposed!:sharpen:solidapisoda
-tsh
+	//light.eluminate.spheresupposed!:sharpen:solidapisoda
+	tsh
 rzh.gth pk^oa
 
 
-//slt.ank^ago
+ank^ago
   gts.atr.hts^th.aps.d://lalnhat3
   axs^th
 trx.pls

@@ -1,5 +1,4 @@
-﻿
-uts.atu
+﻿uts.atu
 u.vw
   unt //mgt.bst
   unx.utz

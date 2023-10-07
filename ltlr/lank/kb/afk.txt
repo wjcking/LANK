@@ -2,4 +2,3 @@
 krs.fks
 //nk_an:annk:kat_e^d:al
 afk.lnt_kt_c
-lk.rd
