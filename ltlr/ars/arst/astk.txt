@@ -2,10 +2,7 @@
 kst.ist.iank
 
 tsn:ltl.fls.mlk:hbe
-fsn
-	fks
-	fks.lks
-dsn
+tsn.krs
 
 arst.slk^d.rkb
 krf

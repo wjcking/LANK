@@ -1,5 +1,4 @@
 ﻿/*
-*Hardwere:Device:Interface:Bodypart //Dc I Bt
 *mos:Mouse(hand)
 *cam:Camera(Eye,Face,Body)
 *mnk_a:Screen.Display.FingerTouch(Eye Finger.Touch,Hand.Scan)
