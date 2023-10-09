@@ -16,7 +16,7 @@ b:bst
 */
 kd^ks
 kb_nr.idks
-knr:itl:mkr
+
 
 /****ltlrs****/
 

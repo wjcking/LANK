@@ -1,4 +1,4 @@
-﻿dkbt.ltlr.bd_ao.pat_r:pash_or:pat_keuo_l
+﻿rkb.ltlr.dkbt
   ln.ktk_ant
     br_ln.lck
   lyr.lsa //lsn_enr
@@ -19,10 +19,7 @@ fag
   gus:tub
 fug
 
-/*
-* 铯 卡尔特
-* 女性优先:约束 梳理 会计核酸
-*/
-HandleStick
-MusicInstrument
+//HandleStick
+
+
 
