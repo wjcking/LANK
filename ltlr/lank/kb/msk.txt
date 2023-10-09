@@ -11,7 +11,7 @@ trk.ktr^d
 		h.kaz
 		h.t.kaz
 	//thk.mhw_k
-	kmt^d.j.msk.kst^a //ktk:h
+	kmt^d.jts.msk.kst^a //ktk:h
 krt^d
 
 msk:kmt//tzt

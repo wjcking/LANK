@@ -7,9 +7,8 @@
 //land
 kls.msk:mwz.mhmt
 kls.hlk
+//wt_h	ml^s
 kzt
-	wt_h
-	ml^s
 ktz.hsk
 
 //arst.atsk.msk

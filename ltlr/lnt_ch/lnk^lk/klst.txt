@@ -18,21 +18,14 @@ ptk.krf_m
 *  lost
 *keypoint
 */
-atf.afr_ow:r_ani.l_ivy.irf_w
-jts.sls:itb-s:~,-,^ //svlt
-  idx,klr_cae
-  //ayrister
-  itlr.itfs:irst:
-  pskf.past.pst
-  pad_n.atz^w.its
-    knt_e.pst.rtf^d.kst^al.stk //const_expr
-    dtf
-      kbt
-      lst_ao
-    k^y.pt_in
+idx.klr
+ltlr.tfs:arst:
+pst.krs^f.knt_e.rtf^d//const_expr
 
-    ch_wi.nat_o
-    cst_n
-  fatn_ni
-  lk.lnk.klt
-kst
+pd.atz^w
+	kst^al 
+	dtf
+	kbt
+	lst_ao
+ftn.lk.lnk.klt
+
