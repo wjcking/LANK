@@ -17,5 +17,3 @@ kst_l
   hsk:z.x  
 tzk_e
 
-//fks.afsk.rfbk.bzklk
-//avl_on:hlgt.args

@@ -6,9 +6,8 @@ t
   tri
 	//ist.tsi
 	//
-  //rl.ivsh.n
-  //ltlr:snk_x^th
-  //tsd.ksh_en_ngs^d:bde mle
+  //rl.ksk.tp^ao
+  //ltlr:jxs^th
   //tsi.i.n
 	tzi
 i
