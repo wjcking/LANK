@@ -16,7 +16,7 @@ krt^d
 
 msk:kmt//tzt
 	mslk 
-	km^tx:ksl ktl
+	km^tx.tls:ksl ktl
 	mlsk
 
 mks:mds_l:mts

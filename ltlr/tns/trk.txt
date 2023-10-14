@@ -30,12 +30,14 @@ trx
 i.r
 
 trx.krt
-	krt^e
-	krt^a.i.r
+	krt^e.i
+	krt^a.r
 	krt^ar.ibt.rt:kdr
-r.ist.k
+r.ist.tx.k
 
 tls
 	ksl.kst//i.l.s
-	ktl.kld //i.l
-r.ist
+	ktl.kld^t //i.l i.a
+r.lst.i
+
+tlk
