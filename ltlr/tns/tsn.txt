@@ -4,7 +4,7 @@ tsn
 fsn:hbe //f-k-i.irk-a
 ksn
 	kst
-		tls
+		trs-l
 	iank
 kns.tns
 dsn.mst.itlrs

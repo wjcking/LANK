@@ -1,8 +1,8 @@
 ﻿/*
  *相同:帕斯卡.大气铀电 压强 Delphi Pascal
 */  
-//annl^t.jls^t
 //pst^ao
+//annl^t.jls^t
 //krf^r
 //klr
 帕斯卡夫:凯乐   \\艾昂尼克
@@ -36,10 +36,13 @@ lts^v
   全部:汇聚.关键
 斯纹莱特 
 
-//kns.knt:rpt
-//knt^an
-//knt^ao_ln
-//knt_e
+//kns.knt
+//knt^i:mth
+
+knt^an
+knt^ao_ln
+knt_e
+/******/
 数量:重复
   个数
   次数 //动词
@@ -55,16 +58,11 @@ kzn.s
   同步 //人类.达成一致  同步.绝对
 序列:付动 用动 栈动 开尔锐特
 
-sks^a.ksn
-  rft
-    rds:srd^a.dls^z
+rft
+  rds:srd^a.dls^z
     
-    rdf:frd_e
-  fld^l^wu
-ats
-
-kst
-ksh
+  rdf:frd_e
+fld^l^wu
 /******/
 塞尔夫瑞特:水,众说纷纭 ,看似有序,不好顺序; 术量.多数优先    
    浮动:伏特:付来的:菲尔的:菲利特
