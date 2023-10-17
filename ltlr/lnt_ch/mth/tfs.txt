@@ -1,7 +1,7 @@
 ﻿ltlrs.rtl.rts
 ltlr.mch:mth
 ltlr.tfs:kbt:tkt
-ltlr.kmsk.brts.knfs.ksn
+ltlr.kmsk.brts
 
 hsk:hzk
 hds:hdz
