@@ -5,12 +5,10 @@ j
     v.y
     x
 l
-krs_l.bsk_ol
-	jxs.jts
-	//pend accessory
+krl.bsk_ol
+	jxs.ats
   kbt:pd.ftn
-  aks.ats
-
+	
   lks_ln
     skr:krd^ktr_d
   fks.ln //fnc

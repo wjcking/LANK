@@ -1,9 +1,8 @@
 ﻿/*
 *中文学名为互补金属氧化物半导体
 *cmos bios
-*A hardware interrupt
-* alerting signal external device
-*rl.time sensitive attention.
+*A hardware interrupt alerting signal external device
+*rl.time sensitive attention
 */
 hzv_hzh
 	hlx.hzk.wfs
