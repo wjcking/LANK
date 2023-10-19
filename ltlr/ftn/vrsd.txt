@@ -12,7 +12,7 @@ gls_c
 	//georgia.laos.burma.miadian.tal_nd
 	//atv.una_sha
     
-  krea_h_o
+  kea_rh_o
 	kx_eo
 	kna_ml
 gls.d

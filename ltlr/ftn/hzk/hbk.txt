@@ -6,7 +6,7 @@
   hkz
 	hxc//hzh klc asm	
   hdz.dwf.dup.tsh
-  hdz.tsh.rcs
+  hdz.tsh.rzs
 	hxs  
 nks.kbt
 
