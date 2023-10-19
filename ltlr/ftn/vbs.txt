@@ -2,7 +2,8 @@
 *
 *12345678 90 abc 钫得 한국어 にほんご 
 */
-atls.abt^er.brts
+brts:vbs.wgs_l1
+
 vad.hlgt
 vap.asnk
 vab.st:kat.ltb
