@@ -1,10 +1,11 @@
 ﻿/*
  *相同:帕斯卡.大气铀电 压强 Delphi Pascal
-*/  
-//pst^ao
-//annl^t.jls^t
-//krf^r
-//klr
+*/ 
+pst^ao
+krx.drf.psk.jxs.annl^t.jls^t
+krf^r
+klr
+/******/
 帕斯卡夫:凯乐   \\艾昂尼克
 
 超先尤几别
@@ -36,8 +37,8 @@ lts^v
   全部:汇聚.关键
 斯纹莱特 
 
-//kns.knt
-//knt^i:mth
+kns.knt
+knt^i:mth
 
 knt^an
 knt^ao_ln

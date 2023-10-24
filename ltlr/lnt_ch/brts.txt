@@ -3,7 +3,6 @@
 *pskf.bl.ut.ft_w
 */
 brts_e^d:abrs.brts.args
-  
   lnk^th
   kln.pls_dr.ltlr:asak:lsa^t
   ~kr^tk_ea^l //Add Paskeful.PiorityFirstly.Index
