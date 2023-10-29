@@ -1,5 +1,6 @@
 ﻿trs.ltlrs.atsk 
 
+trx.bls
 ltlrs.rth.nk.an
   kl.an.1 
     rkb.ksk.enks //1-n
@@ -11,8 +12,3 @@ ltlrs.rth.nk.an
 	tsh
 rzh.gth pk^oa
 
-
-ank^ago
-  gts.atr.hts^th.aps.d://lalnhat3
-  axs^th
-trx.pls

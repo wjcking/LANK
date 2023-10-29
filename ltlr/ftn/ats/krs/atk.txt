@@ -16,7 +16,7 @@ kts
 ktz_e: //tlz kls
 
 //交叉
-ktx
+kts.kmtx
 tks//交汇
   //kl
   lks_x  
