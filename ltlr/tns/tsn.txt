@@ -1,10 +1,19 @@
 ﻿iank.ist
 
 tsn
-fsn:hbe //f-k-i.irk-a
+fsn:hbe
 ksn
-	kst
-		trs-l
-	iank
-kns.tns
-dsn.mst.itlrs
+	trs-l
+	kns.tns
+kst
+dsn.mst
+
+rsn
+	r
+		kst^a
+	v.vsd
+
+	n.nks
+		tls^l:r
+	m.mds
+dsn
