@@ -15,7 +15,7 @@ f.ks
 l:tsh^kwo
 
 //多维面@立面,方面 (体) 凯斯特 卡丝他 区分:平行面维 
-ist.k.d:etx:t.d
+ist.k.d:ltx:t.d
 mch.st
   kna.mi
   

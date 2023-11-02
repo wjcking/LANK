@@ -1,14 +1,11 @@
-﻿iank.ist
+﻿ksn.kst
+ist.iank
+
+dsn.knt.fst
+
+fsn.kns
 
 tsn
-fsn:hbe
-ksn
-	trs-l
-	kns.tns
-kst
-dsn.mst
-
-rsn
 	r
 		kst^a
 	v.vsd
@@ -16,4 +13,6 @@ rsn
 	n.nks
 		tls^l:r
 	m.mds
-dsn
+asn:itl
+
+rsn

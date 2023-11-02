@@ -3,7 +3,7 @@ hsk.hdr
 blt.fld
 
 klc^z
-  lks.atsk.etx
+  lks.atsk.ltx
   //msv^wtx.hzt
   
   arst.gts.atr

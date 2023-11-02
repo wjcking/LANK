@@ -20,7 +20,7 @@ krls:r.f.l
   klf4
 	mmz.j:kmtx
 	nnz.j:kmtx
-	mnz^lt:atz.etx
+	mnz^lt:atz.ltx
 kmk^t
 ksl4^ale	//ktln4
 kmt:kat_e^d

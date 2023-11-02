@@ -8,7 +8,7 @@ klt.lnt
   tls
     
   lvs
-    lr.lsa.etx
+    lr.lsa.ltx
   tls^c
     
   lhr.klh:achs.echs

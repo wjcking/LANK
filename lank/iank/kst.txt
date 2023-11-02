@@ -3,6 +3,6 @@
 //n:h:rl.isk.lsk_w
 //mtk^d_eou:is.o.dk
 //ltlrs.bsk_no:istk.lsdk.isnk
-ist.trs.kst
+ist:trs.kst
 
 tns.kns

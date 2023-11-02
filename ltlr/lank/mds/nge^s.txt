@@ -13,7 +13,7 @@
 flc.fr.xs^l //w
   lif:hnk:mik
   flt:tak
-    tif.etx.hns
+    tif.ltx.hns
   flt.mts^l
 blk
 

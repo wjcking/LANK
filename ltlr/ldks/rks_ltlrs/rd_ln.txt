@@ -20,7 +20,7 @@ l.sks
   //s.t.z jxs pst.knsh
   //rikes.html
   kst_ra
-  rcs.etx.nks_mdv
+  rcs.ltx.nks_mdv
   thr^ra.zh^eu:
     zh.kt.en^u.c //元支 enstruct
     rv^n.th^s
