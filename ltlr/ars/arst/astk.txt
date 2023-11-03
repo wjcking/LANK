@@ -1,8 +1,8 @@
 ﻿ltlrs.ksn:rtl.mch
 kst.ist.iank
 
-tsn:ltl.fls.mlk:hbe
-tsn.krs
+ksn:ltl.fls.mlk:hbe
+ksn.krs
 
 arst.slk^d.rkb
 krf

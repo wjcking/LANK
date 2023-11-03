@@ -2,7 +2,7 @@
 ist.i:a
 
 irk.knt-skr
-	ist.ink.lk
-	its.lanks
-	ink.lnd.land
+	ist.ink.lnk
+	its.lnks.a
+	ink.lnd.land.k
 ilk

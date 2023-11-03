@@ -2,9 +2,9 @@
 rst^a.rts.rn
 klh.fks.hlk
 
-rtl.rl.dsn //annl
+rtl.rl.tsn //annl
 rl.kri.fsn
-mth.tsn
+mth.dsn
 
 //lsls
 blt_s.psk_c.vts_z

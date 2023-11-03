@@ -8,13 +8,14 @@
 kls.msk:mwz.mhmt
 kls.hlk
 //wt_h	ml^s
+kts
 kzt
 ktz.hsk
 
 //arst.atsk.msk
 km^tx
 mds.mlk.mgt
-brts.vbs:7x 1t l z y
+brts.rft.vbs:7x 1t l z y
 krls:r.f.l
   krf3.knt^e
   klf4

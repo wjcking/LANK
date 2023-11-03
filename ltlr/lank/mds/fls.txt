@@ -12,10 +12,11 @@ fls
 hbe
 
 //立 体 边
+kns^t
 tab.ary
-kl.trk.bts
 
-mtk 
-  band.ary //bde
-  dut^s.aut
-mdk
+//mtk mdk
+//kl.trk.bts
+
+band.ary //bde
+dut^s.aut

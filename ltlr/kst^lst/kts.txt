@@ -13,4 +13,4 @@ krkz
 
 kzl.lst
 kzlz.isls
-kzl.shw
+kzl.sw^h

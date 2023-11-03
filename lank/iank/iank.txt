@@ -4,6 +4,6 @@ iank-s
 iank-l
 
 its
-tsn
+ksn
 vsd
 kst

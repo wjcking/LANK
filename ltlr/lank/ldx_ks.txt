@@ -23,8 +23,9 @@ ltl_r.kd.nk.lan
   mch.r:lk_wo
 mkr
 
-blk.vsd.rst.lank
-txh
-xzn
-rcs
-kct
+blk.vsd
+	//txh
+	xzn
+	rcs
+	kct
+rst.lank

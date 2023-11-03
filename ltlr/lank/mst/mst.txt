@@ -8,9 +8,9 @@ ist.iank
 ist.kst
 ist.tri
 
-tsn
-mst.msk
+ksn
 
+tsn
 mst
   fsn
     fn:fx
@@ -20,9 +20,7 @@ mst
     fl^t.al:flc.an:flk.an.w
   hbe:nm
 
-	ksn
-
 	dsn.mds
 	//mlk^wo
-  //mtk^d:ch
+  //mtk^d:ch mst.msk
 msd

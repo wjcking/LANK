@@ -3,7 +3,7 @@ ist.iank
 
 dsn.knt.fst
 
-fsn.kns
+fsn.kns:tfs
 
 tsn
 	r
@@ -15,4 +15,5 @@ tsn
 	m.mds
 asn:itl
 
-rsn
+rsn:hbe:nm
+dns
