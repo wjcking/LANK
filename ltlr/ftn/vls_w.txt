@@ -9,8 +9,8 @@ klr.dzh adv.atsk^hdr
 rtl.klsk.ats^m.balsk_c_p
 
 //jts.hlk^tl
-sit.land
-tis.lank
+sit.lank
+tis.land
 
 ftn.rbk
   blsk_ao  

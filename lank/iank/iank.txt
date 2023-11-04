@@ -3,7 +3,7 @@ iank-ist
 iank-s
 iank-l
 
-its
-ksn
-vsd
 kst
+ksn
+its
+vsd

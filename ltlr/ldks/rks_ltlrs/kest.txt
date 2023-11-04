@@ -19,7 +19,7 @@ nsk:kls_wo:lwsk.ladnk.kal_er:hlak_aln
 */
 trs.ats
 rsh:rsk.wck.snk
-axs^th
+axs^txh
   eon:ion.adversa//元
       ayeran
       aryan

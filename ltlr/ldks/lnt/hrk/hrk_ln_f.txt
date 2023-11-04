@@ -1,5 +1,5 @@
 ﻿为仨的.泊色东:冗动:艾尔//aye~r~air ayestory
-芮波尔:水气以东容 //vote vvaateer water
+芮波尔:水气以米为东 //vote vvaateer water
   
 //Weyset.Vessat.Vesaid
 //cdk:current^from-to^kerrent
@@ -46,10 +46,12 @@
     冗任:胡兑 于吃之及 屯于穷
     任冗.无长力又.之纳以人任入 元十合不直 开口(宝盖)包容.人涌:包何容.芮波尔柯
     士元任:十元余仁:任冗 机士土 沉余众发 众不冲夫 挤入重夫 任容
-  ^任入~冲夫
+
+		入任*任入
+		冲夫
   人沉:仁内.士元任:任入:沉中:彻扯骨出//Rerou Arytezk Bone
 
-  *入任:任元士.杠过丐可:不来所地.开口厄子(凯米特.凯奥兹.凯尔瑞特) //chaos-cosmic.html 
+  入任:任元士.杠过丐可:不来所地.开口厄子(凯米特.凯奥兹.凯尔瑞特) //chaos-cosmic.html 
       合中:泊柯开永
       任合: 封齐因子//Rong
     龙任:元术.士远.远术 水元刃 仕折铯(舌)  柯内 你克 开儿忐//Karet
@@ -60,12 +62,8 @@
     互(五安)还:
       士合以未可.末一十未克(莫以时问克).河烂柯 柯兰禾 // k e g h
       士禾以可不.为十么.不内(艾阿安~能)几什 //几时能
-         *五日:吾归: 直元二除术:节介:兀(十日米)冗  希开 系该 改亚
-      //兀儿小会安科,么未身末厄.一印未应.因以纪元.芮见承士:小汉无 //Unknown Beyine Gaya DudaWay Humanly
-      //无小汉.怕四夫克.归十.五么安仓.乌仅今蠢.乃从付重.启明星士:吴金春(人冗余)
-      \\Rastera\rastera\alfred-pind.html:TurtleEagle Line 50s
-      \\Analytical\absock-cybert\puskeful.html
-      //吴潇涵.帕斯卡夫
+         *五日:吾归: 直元二除术:节介:兀(十日米)冗  希开 系该 //改亚
+    
     入任
       冲夫.肌肤:牙余压安于希行:希于向 //rexary
       从古:言语与延型
