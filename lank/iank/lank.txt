@@ -3,6 +3,6 @@ ist.i:a
 
 irk.knt
 	ist.ink.lnk
-	its.lnks.a
+		its.lnks.a
 	ink.lnd.land.k
 ilk

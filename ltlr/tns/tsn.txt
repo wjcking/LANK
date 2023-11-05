@@ -7,7 +7,7 @@ fsn.kns:tfs
 tsn
 	r
 		kst^a
-	v.vsd
+	v.vst
 
 	n.nks
 		tls^l:r

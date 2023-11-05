@@ -8,9 +8,10 @@ isk:kst
 //ltlrs.bsk_no:istk.lsdk.isnk
 ist.kst:trs
 
-tns.kns.ksn
-ksn //kns:krz kzs krs
-	k.t
+ksn.kns.tns
+kst
+	k:t
 	t //v
+	
 	kt  //ist:kst.bst
-tns
+tsk

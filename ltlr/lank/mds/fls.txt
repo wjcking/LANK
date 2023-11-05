@@ -2,8 +2,6 @@
 *边
 *平面 立体 多维@:立,方 礼 (体)
 */
-isk:fsk
-
 fls
   lt.tak //tsl.tas
   lc^n:sk^dr
@@ -14,8 +12,6 @@ hbe
 //立 体 边
 kns^t
 tab.ary
-
-//mtk mdk
 //kl.trk.bts
 
 band.ary //bde
