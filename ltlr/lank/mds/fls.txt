@@ -10,7 +10,7 @@ fls
 hbe
 
 //立 体 边
-kns^t
+
 tab.ary
 //kl.trk.bts
 

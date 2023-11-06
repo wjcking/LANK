@@ -10,8 +10,8 @@
 */
 vst^ch.vks
 m^th^ch
-  r.tfs:ksh^s
-  k.kln.klt
+  r:kbt:ksh^s
+  k:kln.klt
   g:nk
 
   s
