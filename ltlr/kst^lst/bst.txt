@@ -1,7 +1,6 @@
-﻿bst
-kbnr.mks.nks
-ltlr.sld.mkr.msh
-ltlr.lst^o.vsd.itbs
+﻿kbnr.mks.nks
+ltlr.lsd
+vsd.itbs
 
 vst:bsd//sab.stu.tud
   vsd_al:krt_a:

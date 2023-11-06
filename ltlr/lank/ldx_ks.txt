@@ -22,10 +22,3 @@ ltl_r.kd.nk.lan
   rl
   mch.r:lk_wo
 mkr
-
-blk.vsd
-	//txh
-	xzn
-	rcs
-	kct
-rst.lank

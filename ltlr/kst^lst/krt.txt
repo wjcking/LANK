@@ -1,22 +1,17 @@
-﻿isk.mlk.vst //trk.tsk.tsn_i_l
-knt^k:m
-
-krt^ar:isk^o.lst^k
-  //trk^t
-  //trks^x
-  kmt
-  kt_r.isk:vst
-    
-  kaz_o.ats.mst
-  -thk:msk_n^u
-  kez_ao.ltx.msk
-  ktr:kdr
-
-  kld_ain 
-krd
-
-krt_e
+﻿krt_e
 	r.vsd
 	f.trx
 	b
 krl_e
+
+krt^ar
+  kmt
+  kt_r.isk:vst
+    
+  kaz_o.ats.mst
+  thk:msk
+
+  ktr:kdr
+
+  kld_ain 
+krd

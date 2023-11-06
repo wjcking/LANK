@@ -1,5 +1,5 @@
-﻿//[Kar][Mik]Karrect.Textural.StringStart.Kamit
-//Habit ImeInput 
+﻿//KarMiks Karrect.Textural.StringStart.Kamit
+hbt.rkb.hand //ImeInput 
      
 vrsd //WsyreckUtizual CarowletDifference
 ant:mts //RequireLong.SnickTimes
