@@ -1,7 +1,4 @@
-﻿iank
-
-st si si.t
-
+﻿i:s
 s.t
 t
   s si 

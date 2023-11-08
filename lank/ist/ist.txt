@@ -1,5 +1,8 @@
-﻿ist.its.ats //i=s=t
-
+﻿/*
+*rsn:i=s=t
+*/
+ist.its.ats
+//
 ist
 tsi
 its

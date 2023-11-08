@@ -1,9 +1,7 @@
-﻿iank-kst
-iank-ist
-iank-s
-iank-l
-
-kst
+﻿kst
 ksn
-its
+
+ist.i:a
+iank-lts
+
 vst

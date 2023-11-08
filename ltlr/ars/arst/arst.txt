@@ -15,8 +15,8 @@ arst
 atsk
 
 ats^tk
-	atv //art
 	atr
+	atv //art
 	atz//tzk.klh
 arst
 

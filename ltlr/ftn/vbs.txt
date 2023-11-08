@@ -2,22 +2,21 @@
 *
 *12345678 90 abc 钫得 한국어 にほんご 
 */
-brts:vbs.wgs_l1
 
-vad.hlgt
-vap.asnk
-vab.st:kat.ltb
-  vk_o
-  vc_o
-  vls.dls.krl
+brts
+vbs.st:kat.ltb
+  vc_e
+  vk_e
+	vd_e
+  ld_an//vls.dls.krl
+  enk
 
-  ved_a
-    //smp_n^bl.skr^y
+  vad.hlgt
+  vap.asnk
   vab.hlkt
 
-  vwr.kest_a.vrsk
-  enk_s
-ved_or
+  vwr
+wgs_l1d  
 
 ltlr.kbt:knr.lst
 tsn

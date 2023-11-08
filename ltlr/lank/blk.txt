@@ -1,6 +1,7 @@
 ﻿blk.vsd
-	//txh
-	xzn
-	rcs
-	kct
 rst.lank
+//txh
+etx
+xzn
+rcs
+kct
