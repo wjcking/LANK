@@ -9,7 +9,7 @@ kldr
 
 gls_c
 	//atv.una_sha
-	//georgia.laos.burma.miadian.tal_nd
+	//georgia.laos.burma.miadian.thailand
 	//glck.kld:greek:hlk_en.skr_eou
     
   kea_rh_o
