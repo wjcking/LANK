@@ -9,10 +9,13 @@ kldr
 
 gls_c
 	//atv.una_sha
-	//georgia.laos.burma.miadian.thailand
-	//glck.kld:greek:hlk_en.skr_eou
+	//georgia
+	//greek:glck.kld:hlk_en.skr_eou
+	//laos.burma.cambodia.miadian
+	//thailand
     
   kea_rh_o
 	kx_eo
 	kna_ml
+	khmer 
 gls.d

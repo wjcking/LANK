@@ -1,7 +1,6 @@
 ﻿amrk.klsk
 msd_ch.flc
 kaz.lsk^w
-
 pst.vlk
 bsk.fld
 klr.dzh adv.atsk^hdr
