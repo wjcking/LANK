@@ -6,10 +6,10 @@
     rk:frm 
     rbk
     
-    //dkbt
-    //dkt_w.tx^k
-    //dr.dsn_ai.dak.bsk_o
-    //kamsk
+	//dkbt
+	//dkt_w.tx^k
+	//dr.dsn_ai.dak.bsk_o
+	//msk.kan
   pk_chr.trk^tx:pbqd_eor
 
   vsk:vsd

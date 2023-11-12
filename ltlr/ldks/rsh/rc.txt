@@ -32,7 +32,7 @@
 	//	hlkt:a b_l s_a d_l
 	//	esh
 	//		a^r b_e c d_e e f_e;
-	//		e.vgs
+	//	e.vgs
 	//abt^s.rsh^c.nsh.enks
 	//msh
   可讷二 
