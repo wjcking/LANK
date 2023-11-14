@@ -1,5 +1,5 @@
 ﻿/*
-*rsn:i=s=t
+*lr:i=s=t
 */
 ist.its.ats
 //

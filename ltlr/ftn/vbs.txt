@@ -2,7 +2,6 @@
 *
 *12345678 90 abc 钫得 한국어 にほんご 
 */
-
 brts
 vbs.st:kat.ltb
   vc_e

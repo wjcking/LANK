@@ -4,7 +4,7 @@ i.ist
 	ark.alk //afk
 a.ast.k
 
-kd.pst.trk //kb_nr
+kd.trk.blk //kb_nr
   t
   wt_h
   ml^s

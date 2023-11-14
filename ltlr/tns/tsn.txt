@@ -2,7 +2,7 @@
 ist.iank
 
 dsn.knt.fst
-fsn.kns:tfs
+fsn.tns:tfs
 
 tsn
 	r
