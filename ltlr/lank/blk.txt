@@ -1,7 +1,7 @@
-﻿blk.vsd
+﻿blk.vst
 txh
 etx
 xzn
 rcs
 kct
-rst.lank
+rst.land
