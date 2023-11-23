@@ -6,8 +6,9 @@ a.ast.k
 
 kd.trk.blk //kb_nr
   t
-  wt_h
-  ml^s
+	//wt_h
+  //ml^s
+  tzk:kzt
   kt
 
 	ark.ist
