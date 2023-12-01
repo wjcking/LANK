@@ -1,4 +1,4 @@
-﻿b.slt:l.c.kct
+﻿b.lsd:l.c.kct
 b:bst
 
 /*

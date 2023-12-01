@@ -2,5 +2,19 @@
 atv.vts //ftn.kbt.lnch_e
 
 ltx^s.y //ltx^s.E lnk.smt
-echs
+
 esh//lvk E pst.knt atv.esh
+	
+	ltx.sh
+		lnch.ash
+		lnsh
+		ash^ch
+			lbt:hlsh.nsh
+			nlu_s.u.bls //lsbnlu hspnk_z
+		hsh
+		//achs_esh
+	ltx.ys
+
+	mtl_u_w.tls.d
+	els
+ech^s:lnch:hlsh
