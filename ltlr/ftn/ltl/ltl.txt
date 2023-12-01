@@ -30,7 +30,11 @@ InfinityFree Requre:www
   MySql: sql202.epizy.com Port:3306
   WebsiteIP:185.27.134.179
 
+//hzh.dsk
+https://infini-cloud.net/en/
+	intellyer
+	20010101
+	ReferralCode:SC9YQ
 //https://gitee.com/intellyer
-
 //http://cpanel.byethost22.com/
 //http://www.bertis.byethost22.com
