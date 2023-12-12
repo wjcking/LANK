@@ -1,11 +1,22 @@
 ﻿//KarMiks Karrect.Textural.StringStart.Kamit
-hbt.rkb.hand //ImeInput 
-     
+//ImeInput 
+hbt.rkb.hand
+
 vrsd //WsyreckUtizual CarowletDifference
-ant:mts //RequireLong.SnickTimes
-nks.vbs//EnglishLimited 
-hzk_lng //AnalyticHindered.//HistoryInternet.Collect
+
+//RequireLong.SnickTimes
+//time.adversed
+ant:mts
+tam^i.atb
+
+//EnglishLimited 
+nks.vbs
+
+//AnalyticHindered
+//HistoryInternet.Collect
+bls.txh.etx:hzk
 
 //dkbt_ae
-asak.trs.lvsh_n //Redraw
+//Redraw
+asak.trs.rkb.ksk:lvsh_n 
 dpt.itlr
