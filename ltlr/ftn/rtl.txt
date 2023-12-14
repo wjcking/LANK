@@ -3,10 +3,12 @@
 rtl.ltls
 lt^s
   r.n //元史
+	
   rl.vh.vts:vls//维力丝
 	rzs//中东
   lr.vts.th //七元
-  rl.hw.fch^s//远切.水
+  clr.hw.fch^s//远切.谁
+  crl.wh.chf.s//维切力.水
 rl.ltbs
 
 rtl.blz_d.brs
