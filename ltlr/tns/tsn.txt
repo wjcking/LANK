@@ -17,11 +17,9 @@ rsn:itl
 rsn
 ask^i-asy
 asn.k:hbe
-	rkb.h
+	rkb.e
 		brk.lck
 		bzk.klk
 		kdz
-
-		//dsn
-	rbk.e
+	rbk.h
 dns:nm
