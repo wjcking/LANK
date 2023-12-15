@@ -15,7 +15,7 @@ vbs.st:kat.ltb
   vab.hlkt
 
   vwr
-wgs_l1d  
+wgs_l1d7 
 
 ltlr.kbt:knr.lst
 tsn

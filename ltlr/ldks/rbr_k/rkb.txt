@@ -15,13 +15,14 @@ vad.nwk
   knd:vst.spn
 wad.nak
 
+lng.lde:lda
 lag.hnd.knk_g^t
   knd:vst:spn
   knd.vts
 
   //dnb:saf.rut^t.nt_ao //kch_w.dab^s  
   hnd.fgr.lnt.rck //drk^t:米
-  fnt.fgr.blg.lnt.rck //drk^t:上下
+  zrn.fgr.blg.lnt.rck //fnt drk^t:上下
 
   mdr:bad_ln_
   mfs:bdy.nbr
@@ -35,7 +36,7 @@ lag.hnd.knk_g^t
   tnd_ln
   hnd_ln
   tg^kn
-lng.fnt //ajr_n ajt_n
+lng.zrn:ajr_n.ajt_n //fnt
 
 sls_hlr
   kl

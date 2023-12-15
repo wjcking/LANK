@@ -6,7 +6,7 @@ ltx^s.y //ltx^s.E lnk.smt
 esh.lnch.ash.achs//lvk E pst.knt atv.esh
 		ash^ch
 			lbt:hlsh.nsh
-			nlu_s.u.bls //lsbnlu hspnk_z
+			nlu_s.u.bls //lsbnlu:hspnk_z
 		hsh
 		//achs_esh
 

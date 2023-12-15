@@ -14,5 +14,14 @@ tsn
 	m.mds
 rsn:itl
 
-asn:hbe
+rsn
+ask^i-asy
+asn.k:hbe
+	rkb.h
+		brk.lck
+		bzk.klk
+		kdz
+
+		//dsn
+	rbk.e
 dns:nm
