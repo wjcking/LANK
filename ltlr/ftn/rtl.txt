@@ -7,10 +7,11 @@ lt^s
   rl.vh.vts:vls//维力丝
 	rzs//中东
   lr.vts.th //七元
-  clr.hw.fch^x//远切.谁
-  crl.wh.chf.s//维切力.水
+  clr.hw.fch^x//远切.水
+  crl.wh.chf.s//维切力.谁水
 rl.ltbs
 
+rtl.rbr_k.rkb
 rtl.blz_d.brs
 rtl.rzs.blz_hvy
 bzr
