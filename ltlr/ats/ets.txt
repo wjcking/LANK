@@ -4,13 +4,15 @@ atv.vts //ftn.kbt.lnch_e
 ltx^s.y //ltx^s.E lnk.smt
 
 esh.lnch.ash.achs//lvk E pst.knt atv.esh
-		ash^ch
-			lbt:hlsh.nsh
-			nlu_s.u.bls //lsbnlu:hspnk_z
-		hsh
-		//achs_esh
+	ash^ch
+		lbt:hlsh.nsh
+		nlu_s.u.bls //lsbnlu:hspnk_z
+	hsh
+	//achs_esh
 
 	mtl_u_w.tls.d
 	msl.ks:ech^s:hsh
 	els
-ltx.ys
+ech^s:ltx.ys
+
+lty.s:ltx //ln7s lsls
