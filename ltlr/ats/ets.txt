@@ -1,9 +1,9 @@
 ﻿ats.ates
-atv.vts //ftn.kbt.lnch_e
+atv.vts.vls //ftn.kbt.lnch_e
 
-ltx^s.y //ltx^s.E lnk.smt
+ltx^s.y //E lnchys lnk.smt
 
-esh.lnch.ash.achs//lvk E pst.knt atv.esh
+esh.lnch.ash//lvk E pst.knt atv.esh
 	ash^ch
 		lbt:hlsh.nsh
 		nlu_s.u.bls //lsbnlu:hspnk_z
@@ -13,6 +13,7 @@ esh.lnch.ash.achs//lvk E pst.knt atv.esh
 	mtl_u_w.tls.d
 	msl.ks:ech^s:hsh
 	els
-ech^s:ltx.ys
+ech^s.achs:ltx.ys
 
-lty.s:ltx //ln7s lsls
+lty:ltx.y //ln7s lsls
+qty:ltx.y.bds //els qty.chf.quqs

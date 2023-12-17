@@ -14,8 +14,7 @@ tsn
 	m.mds
 rsn:itl
 
-rsn
-ask^i-asy
+rsn:ask^i-asy
 asn.k:hbe
 	rkb.e
 		brk.lck
