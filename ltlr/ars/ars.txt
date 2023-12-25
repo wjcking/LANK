@@ -1,7 +1,4 @@
 ﻿ars.trs.ats
-
-//^h.lbt
-
 ats.nks^tch.a:  
   ark^w
   ach^rw^o

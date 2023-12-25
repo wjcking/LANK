@@ -1,10 +1,17 @@
 ﻿atsk^z
 ads.asd
 ars:atzk
-	asn.k
-		vbs
-		hlkt
-  azt.k
-ats.zts
 
-atz:azt.k
+asn.k
+	vbs
+	hlkt
+azt.k
+
+atsk:hbe
+rkb.e
+	brk.lck
+	bzk.klk
+	kdz
+rbk.h
+
+atz.ltz^n.ltx:azt.k
