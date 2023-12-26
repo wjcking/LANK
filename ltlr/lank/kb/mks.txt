@@ -8,9 +8,10 @@
 kls.msk:mwz.mhmt
 kls.hlk
 //wt_h	ml^s
+wts:v:mls:h
 kts
-kzt
-ktz.hsk
+	kzt
+ktz.ltz.hlx^n
 
 //arst.atsk.msk
 km^tx

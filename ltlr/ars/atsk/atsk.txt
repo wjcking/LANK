@@ -14,4 +14,4 @@ rkb.e
 	kdz
 rbk.h
 
-atz.ltz^n.ltx:azt.k
+atz.ltz^n:azt.k

@@ -15,5 +15,9 @@ esh.lnch.ash//lvk E pst.knt atv.esh
 	els
 ech^s.achs:ltx.ys
 
-lty:ltx.y //ln7s lsls
-qty:ltx.y.bds //els qty.chf.quqs
+nts.e:r
+nts.ln.hlx
+
+lty.nts:ltx.y //ln7s lsls
+qty:ltx.y.bds //els chf.txqys quqs qtx
+ltz^n:ltx.z:atz
