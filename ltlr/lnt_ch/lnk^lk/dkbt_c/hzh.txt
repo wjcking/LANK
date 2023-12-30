@@ -10,7 +10,7 @@ hzh.rsk_c.lsk_c:ltlr.adpz^t
   brs //prosses
 		rtch_we
 		rfsh_l.kln.shw_o
-		rsch_r
+		rsch.ear
 		rts //rtn
 	atr
 km^tx_put.dpt^msh //knr_mks

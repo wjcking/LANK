@@ -14,8 +14,10 @@ tsn
 		tls^l:r
 	m.mds
 rsn:itl
-	
-rsn
-dns:nm
+
+rdn:rsn	
+dns
+	dns:nm
+	dns^so	//ast.k
 dws.rst.a
 	
