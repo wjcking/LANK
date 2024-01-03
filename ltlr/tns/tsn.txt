@@ -1,11 +1,8 @@
 ﻿ksn.kst
 ist.iank
+isk.tsn
 
-dsn.knt.fst
-fsn.tns:tfs
-
-isk
-tsn
+rsn:itl
 	r
 		kst.i
 	v.vst
@@ -13,11 +10,13 @@ tsn
 	n.nks
 		tls^l:r
 	m.mds
-rsn:itl
+	
+	fsn.tns:tfs
+dsn.knt.fst
 
 rdn:rsn	
 dns
-	dns:nm
-	dns^so	//ast.k
+	dns.nm:tfs.mds.fls
+	dns^so:tfs.dms.flt	//ast.k
 dws.rst.a
 	
