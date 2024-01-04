@@ -14,7 +14,7 @@ rsn:itl
 	fsn.tns:tfs
 dsn.knt.fst
 
-rdn:rsn	
+rdn:rns
 dns
 	dns.nm:tfs.mds.fls
 	dns^so:tfs.dms.flt	//ast.k
