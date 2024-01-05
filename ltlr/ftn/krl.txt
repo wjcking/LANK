@@ -16,5 +16,5 @@ krl.bsk_ol
   rxs_e_ks
   lks^a
 
-  tgs
+  trs^tgs.tls
 brs^a

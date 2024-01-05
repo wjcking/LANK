@@ -1,5 +1,5 @@
 ﻿jxs.jls
-jxs_n.jlt
+jxs.nts
 j.n.ltbs
 	jsn.atk
 	jns

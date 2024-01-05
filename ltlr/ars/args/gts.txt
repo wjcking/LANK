@@ -1,24 +1,12 @@
-﻿vgs.brt^s_cu.vsk.artzk
-ank_c.atbs.rbk_l_a.fbk.r
+﻿gts^sh.ltx.fks
 
-gts^sh.ltx
-  kgt_aor:mtch^k_zh:mgt
-  ltx.atx
-  kaz:kst_la
-  t:n
+lty.atx:kmtx:kltx.ch
+kaz:kst_la
+ktn_g
 
-  kal_s
-  g
-
-  k //kast^a
-fks //fgt_n
-
-kaz
-  gns.jts.btn.fgt_n
-kmtx
-
-vgs
-  akr^cq
-  //gtv^ra
-  //gta.kal_s
+kal_s:gk
+dns_kast
 vls
+vgs.brt^s_cu.vsk.artzk
+
+

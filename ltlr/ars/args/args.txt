@@ -1,5 +1,7 @@
-﻿ats.aks.axs
-ars.jls^b:ags_j
+﻿ars.ags.nks  //rbt.lbt.r:n
+ats.aks.axs.i  //lty
+
+ars.ags:jls^b
   rfr:l
   zk_n.h:z(h.li)z.n 
   lxa_y:brt.ags.rl
@@ -13,6 +15,6 @@ ark^c
 lsk^a.lsk_ewo
 
 //几河卡 厄
-ats.trc.gjr
-art.rzk
-ad_das_yq
+ats.trs^c.gjr
+rzk.art
+ads_dns
