@@ -2,15 +2,15 @@
 ist.iank
 isk.tsn
 
-rsn
-fsn.tns:tfs
-dsn.knt.fst
+fsn.ksn:tfs
+rsn.fst
+dsn
 
 rdn
 rns
 
 dns
-	fsn:tfs.dms.knt	//ast.k
-	fst:tfs.mds.fls
+	dms.knt:tfs:fst	//ast.k
+	dms:tfs.flt.fst	//mds
 dws.rst.a
 	
