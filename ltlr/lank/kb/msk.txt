@@ -1,6 +1,7 @@
 kmt.msk
-
+kst.lst.kaz
 knt//kad_e:kank_d
+
 trk.ktr^d
 	h.atsk //arst kmt.h.pst.knt_aln3
 	h.irk.ilk
