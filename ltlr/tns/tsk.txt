@@ -5,9 +5,11 @@ t
   /*
 	*ti-s.irk.lank
 	***kst-c.rcs***
-	*rkb.ksk.flt
 	*vst.bst:tzi
 	*ltlr:jxs^th
+	*rkb.ksk.flt
+	*rl:tri.skr
+	*krs:tk:tsk
 	*/
   ti-tsi
 i:r
