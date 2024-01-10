@@ -1,5 +1,5 @@
 ﻿iank.l
-iank.c
+lank.c
   -l
 		itr-a^ 
 		~o //sjx c-s:sy~ia

@@ -2,15 +2,14 @@ ksn
 
 kst:tsk
 t 
-  /*
-	*ti-s.irk.lank
-	***kst-c.rcs***
-	*vst.bst:tzi
-	*ltlr:jxs^th
-	*rkb.ksk.flt
-	*rl:tri.skr
-	*krs:tk:tsk
-	*/
+  //
+	//ti-s.irk.lank
+	//***kst-c.rcs***
+	//vst.bst:tzi
+	//ltlr:jxs^th
+	//rkb.ksk.flt
+	//rl:tri.skr
+	//krs:tk:tsk
   ti-tsi
 i:r
 
