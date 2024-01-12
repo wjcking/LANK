@@ -1,7 +1,10 @@
 ﻿kst.irk
 t:trs.v:k
-//rl.tri^skr.vsd
-//rl.ank.krs
-tsk.t.k
-
 tns.kns
+
+tsk:t:k
+ist:tk:tsk
+isk:kt:kst
+//rl.tri^skr.vsd
+//lr.ank.krs
+//rkb.ksk.flt
