@@ -1,4 +1,4 @@
-﻿tls:trs
+﻿trs:tls
 tsl
 
 tlk
