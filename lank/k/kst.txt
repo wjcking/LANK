@@ -10,8 +10,8 @@ ist.kst:trs
 
 ksn.kns.tns
 kst
-	k:t
 	t //v
+	k:t
 	
 	tk  //ist:kst.bst
 tsk
