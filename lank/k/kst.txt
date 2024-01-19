@@ -1,6 +1,6 @@
 ﻿kst.iank
 
-ist //tis.itb:land
+ist
 isk:kst
 
 //n:h:rl.isk.lsk_w
