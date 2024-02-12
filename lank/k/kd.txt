@@ -6,8 +6,7 @@ b:bst
 *kab:sake:bsk //nr^o
 *kst^il
 */
-kd^ks
-kb_nr.idks
+kb_nr
 
 /****ltlrs****/
 
