@@ -1,18 +1,18 @@
-﻿ksn.lst
-ist.iank.tsn
+﻿tsn.ist.iank
+ksn.lst
 trx:trs.tls //bls^txc
 trk //brk:kdz:kfs
 
 fsn.ksn
 
 rsn.fst
+	dns
+		dms.pst.knt.kzn //ast.k rtl.ltl flt
+		mds.fst
+	dws.rst.a
 dsn
 
+//
+srd
 rns
 rdn
-
-dns
-	dms.pst.knt.kzn //ast.k rtl.ltl flt
-	mds.fst
-dws.rst.a
-	
