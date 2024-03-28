@@ -13,7 +13,7 @@ rsn.fst
 	dws.rst.a
 dsn
 
-//krx rft flt ast^k 
+//krx rft flt ast^k:tsk 
 srd
 rns
 rdn
