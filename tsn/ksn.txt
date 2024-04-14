@@ -4,12 +4,12 @@ ksn-tsk
 kst-its
 kst-iank
 
-kct.itr	//n z vzn
-tsi
-  -l
-		^itr-an 
-		-c //k~cs ksd
-  -o^rl
-trs
+tsi.trs^i
+^sc //itr-an
+-i
+-c 
+-o^rl
+vsr-irn
 
-//kct-irk.ilk
+//kct-vsr^nz
+//kct-irk
