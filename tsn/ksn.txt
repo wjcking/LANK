@@ -1,9 +1,15 @@
-kst.its
-kst-iank
-	kct-itr
-	kct-irk
-	kct-tsk
-	kct~ksd
-ksn-tsk.itr.n
+kst-vst
+ksn-tsk
 
-//itr.irk.tsi l
+kst-its
+kst-iank
+
+kct.itr	//n z vzn
+tsi
+  -l
+		^itr-an 
+		-c //k~cs ksd
+  -o^rl
+trs
+
+//kct-irk.ilk

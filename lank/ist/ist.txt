@@ -1,12 +1,15 @@
 ﻿/*
-*lr:i=s=t
+*hrs:i=s=t
+*ibt-tbk
 */
 ist.its.ats
-//
+
 ist
-tsi
 its
-//tis-land.sit-lank
+tsi	
+//tsi.its.tsl-int
+//tis-land
+//sit-lank
 
 tns.kns.ksn
 

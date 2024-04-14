@@ -1,17 +1,8 @@
-﻿b.lsd:l.c.kct
-b:bst
+﻿tsk.kst.kd
+rns:tsn//tsr:rst vn un w
 
-/*
-*keb.kab:ked.kad
-*kab:sake:bsk //nr^o
-*kst^il
-*/
-kb_nr
-
-/****ltlrs****/
-
-//land
-lank.ltlr.lts^w
-
-//lsk.c
-ltls
+//vsd:bst:sld:srd
+//b.lsd^cl.kct
+//b:bst
+dst:dsn
+rns:srd:rsn

@@ -3,10 +3,10 @@
 irk.ilk.ist
 
 kst.kns
-lsd
+trs.bls
   k:t
-	kuv:tuv
-  kvn:tvn
+	kuv //tuv
+  kvn:tvn^u
   kit
 
 	irk
@@ -15,4 +15,4 @@ lsd
 	kfs //krf:fenk:afk
 	
   kunz //mwz:knk
-trs.bls
+tsi-lst //tsi.itr.tsr^i tsl
