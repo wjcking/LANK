@@ -1,15 +1,9 @@
 kst-vst
-ksn-tsk
+kst-ksn
 
 kst-its
 kst-iank
 
-tsi.trs^i
-^sc //itr-an
--i
--c 
--o^rl
-vsr-irn
-
-//kct-vsr^nz
-//kct-irk
+tsi.irs.itr
+kst-ico
+kct-vsn

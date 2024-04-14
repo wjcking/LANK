@@ -1,8 +1,8 @@
 ﻿tsk.kst.kd
 rns:tsn//tsr:rst vn un w
 
+//rsn:rns:srt
 //vsd:bst:sld:srd
-//b.lsd^cl.kct
-//b:bst
-dst:dsn
-rns:srd:rsn
+//B:lsd^cl.kct
+//bst^d
+dsn:tsn
