@@ -8,8 +8,8 @@ ist
 its
 tsi	
 //tsi.its.tsl-int
-//tis-land
 //sit-lank
+//tis-land
 
 tns.kns.ksn
 
