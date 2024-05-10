@@ -1,5 +1,5 @@
 ﻿/*
-*hrs:i=s=t
+*itls:i=s=t
 *ibt-tbk
 */
 ist.its.ats

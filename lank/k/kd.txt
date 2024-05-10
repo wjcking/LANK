@@ -1,6 +1,6 @@
 ﻿tsk.kst.kd
 rns:tsn//tsr:rst vn un w
-
+tsr
 //rsn:rns:srt
 //vsd:bst:sld:srd
 //B:lsd^cl.kct

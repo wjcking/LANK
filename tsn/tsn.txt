@@ -1,11 +1,14 @@
-﻿tsn.ist.iank
-ksn.lst
+﻿~ksn-vzs:vsn
+-ksn.iank.kst
+tsn.ist.lank
 
-trx:trs.tls //bls^txc
+trx:trs.tls //bls.txc
 trk //brk:kdz:kfs
 
-fsn.ksn
+[lik:vrsk]
+fsn.ksn.kst
 
+[vsk.rdn:vrsk^d]
 rsn.fst
 	dns
 		dms.pst.knt.kzn 
@@ -17,3 +20,4 @@ dsn
 srd
 rns
 rdn
+~ksr~ixr^l

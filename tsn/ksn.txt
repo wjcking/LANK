@@ -5,5 +5,6 @@ kst-its
 kst-iank
 
 tsi.irs.itr
-kst-ico
-kct-vsn
+kct-vsn //krs^co
+-vzn:vsn:itr //srk~ixr:itr
+~ixr
