@@ -1,11 +1,14 @@
-﻿kiz.knk:knt
+﻿~kiz-fst
+kiz:fst
+kiz:kst
+kiz:kst-knt 
+kiz.kns:knt
 
-kast:knt
-kaz
+kiz 
 	tvn
 		knv
 		knu
 		kit
 		kun:tlz //kunz
 	kvt
-kez
+kaz
