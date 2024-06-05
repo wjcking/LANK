@@ -8,3 +8,4 @@ tsi.irs.itr
 kct-vsn //krs^co
 -vzn:vsn:itr //srk~ixr:itr
 ~ixr
+irx //rts

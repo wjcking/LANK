@@ -1,8 +1,11 @@
-﻿tsk.kst.kd
+﻿-kd~
+~kd-kst
+kde.kast
+kd^ets //tsk.kst.kd
 rns:tsn//tsr:rst vn un w
 tsr
 //rsn:rns:srt
 //vsd:bst:sld:srd
 //B:lsd^cl.kct
 //bst^d
-dsn:tsn
+tsn:dsn
