@@ -12,4 +12,4 @@ tsr
 //bst^d
 tsn:dsn
 
-//srt^gts:kts~ksn
+//srt^gts_sh:kts~ksn

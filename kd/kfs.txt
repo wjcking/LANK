@@ -1,4 +1,4 @@
-﻿kns.krt //ifd
+﻿kns.krt //fd~i
 
 kfs:krs:krf
 fenk

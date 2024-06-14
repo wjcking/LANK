@@ -1,7 +1,7 @@
 ﻿kst
 ksn
 
-ist.i:a
+ist.i //a
 its-iank
 
 vst

@@ -2,6 +2,6 @@
 
 irk.knt
 	ist.ink.lnk
-		its.lnks.a
-	ink.lnd.land.k
+		its.lnks //a
+	ink.lnd.land //k
 ilk

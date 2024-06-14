@@ -2,7 +2,7 @@
 kiz:fst
 kiz:kst
 kiz:kst-knt 
-kiz.kns:knt
+kiz.kns:knt//kmt
 
 kiz 
 	tvn
