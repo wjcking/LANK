@@ -1,7 +1,7 @@
-﻿ist.k.trk:tkn
+﻿ist~k.trk:tkn
 //dns:ats.k.ktn
 //dns.kzn:pst
-its.k.int.knt
+//its.k.int.knt
 kvt
 	u.n
 	n.u
