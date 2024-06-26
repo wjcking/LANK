@@ -9,12 +9,12 @@ trk //brk:kdz:kfs
 fsn.ksn.kst
 
 [vsk.rdn:vrsk^d]
-rsn.fst
+dsn
 	dns
 		dms.pst.knt.kzn 
 		mds.fst
 	dws.rst.a
-dsn
+rsn.fst
 
 //krx rft flt ast^k:tsk 
 srd
