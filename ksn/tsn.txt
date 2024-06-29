@@ -1,5 +1,5 @@
-﻿~ksn-vzs:vsn
--ksn.iank.kst
+﻿~ksn-vsn-vzs
+-ksn~iank~kst
 tsn.ist.lank
 
 trx:trs.tls //bls.txc

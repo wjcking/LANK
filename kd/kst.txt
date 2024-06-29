@@ -11,7 +11,7 @@ trs.bls
 
 	irk
 
-  kiz //kast kaz
+  kiz //kaz kast
 	kfs //krf:fenk:afk
 	
   kunz //mwz:knk
