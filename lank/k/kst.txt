@@ -1,6 +1,6 @@
-﻿kst.iank
+﻿~kst-
+kst.iank
 
-ist
 isk:kst
 
 //lst

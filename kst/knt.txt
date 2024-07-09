@@ -1,6 +1,6 @@
 ﻿knt.trk
 
-trk.ktr^d
+trk.ktr
 	l.irk.ilk
 	l.iank.tsn
 	l.tsk.i
@@ -10,4 +10,4 @@ trk.ktr^d
 	kns //knk
 		l:k:t:kiz //kaz kast
 	klt
-krt^d
+krt
