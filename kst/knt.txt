@@ -4,7 +4,7 @@ trk.ktr
 	l.irk.ilk
 	l.iank.tsn
 	l.tsk.i
-	n:h.z.l //kmt.l.pst.knt_aln3 atsk.arst 
+	n:h.z.l //kmt-i.pst.knt_aln3
 
 	kzt
 	kns //knk

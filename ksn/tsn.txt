@@ -2,13 +2,13 @@
 -ksn~iank~kst
 tsn.ist.lank
 
-trx:trs.tls //bls.txc
-trk //brk:kdz:kfs
+trx:trs.tls //bls.txs
+trk //bsk:kiz:kfs
 
-[lik:vrsk]
+[lik:rsk^v]
 fsn.ksn.kst
 
-[vsk.rdn:vrsk^d]
+[vsk.rdn:rsk^vd]
 dsn
 	dns
 		dms.pst.knt.kzn 
