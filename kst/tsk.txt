@@ -11,6 +11,6 @@ trs.itr:tsk
 trk.krt.knt //kmt
 //itr.stk
 trk
-  krt
+	krt
 	ktr
 i.r

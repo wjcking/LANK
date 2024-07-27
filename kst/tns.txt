@@ -1,9 +1,9 @@
-kns.krt.knt	//kkt
-ktr	//kdr
+kns.krt.knt //kkt
+ktr //kdr
 	trk:tsk
 		kfs//fst:krf.krk.krs
 		
 		kit
 		kiz //kaz kast kdrz
 	knt
-krt:klt	//kld
+krt-klt //kld

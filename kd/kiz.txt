@@ -9,6 +9,6 @@ kiz
 		knv
 		knu
 		kit
-		kun	//kunz:tlz 
+		kunz	// kun:tlz	
 	kvt
 kaz

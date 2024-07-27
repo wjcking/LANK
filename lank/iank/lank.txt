@@ -1,7 +1,11 @@
 ﻿iank
 
-irk //knt
-	ist.ink.lnk
-		its.lnks //a
-	ink.lnd.land //k
+irk 
+	/*
+	*ist.ink-lnk
+	*	its~lnks //a
+	*~ink.lnd.land //k
+	*/
+	lank
+	//knt
 ilk

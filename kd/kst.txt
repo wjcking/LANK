@@ -4,15 +4,15 @@ irk.ilk.ist
 
 kst.kns
 trs.bls
-  k:t
+	k:t
 	kuv //tuv
-  kvn:tvn^u
-  kit
+	kvn:tvn^u
+	kit
 
 	irk
 
-  kiz //kaz kast
+	kiz //kaz kast
 	kfs //krf:fenk:afk
-	
-  kunz //mwz:knk
+
+	kunz //mwz:knk
 tsi-lst //tsi.itr.tsr^i tsl
