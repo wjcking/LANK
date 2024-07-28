@@ -12,8 +12,8 @@ fsn.ksn.kst
 dsn
 	dns
 		dms.pst.knt.kzn 
-		mds.fst
-	dws.rst.a
+		mds~fst
+	dws.rst
 rsn.fst
 
 //krx rft flt ast^k:tsk 
