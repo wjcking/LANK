@@ -2,13 +2,13 @@
 kiz:fst
 kiz:kst
 kiz:kst-knt 
-kiz.kns:knt	//kmt
+kiz.kns:knt //kmt
 
 kiz 
 	tvn
 		knv
 		knu
 		kit
-		kunz	// kun:tlz	
+		kunz // kun:tlz	
 	kvt
 kaz

@@ -12,7 +12,7 @@ fsn.ksn.kst
 dsn
 	dns
 		dms.pst.knt.kzn 
-		mds~fst
+		//mds~fst
 	dws.rst
 rsn.fst
 

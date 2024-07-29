@@ -2,9 +2,9 @@
 
 irk 
 	/*
-	*ist.ink-lnk
+	*ist.ink-lnk //l
 	*	its~lnks //a
-	*~ink.lnd.land //k
+	*ink.lnd.land //k
 	*/
 	lank
 	//knt
