@@ -1,3 +1,3 @@
-﻿kst.irk
-t:trs.v:k
-tns.kns
+﻿t:trs 
+kst //irk v:k
+//tns

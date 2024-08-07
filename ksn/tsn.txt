@@ -10,14 +10,14 @@ fsn.ksn.kst
 
 [vsk.rdn:rsk^vd]
 dsn
-	dns
-		dms.pst.knt.kzn 
-		//mds~fst
-	dws.rst
-rsn.fst
+	//dms.pst.knt.kzn 
+	//mds-fst
+	//dws.rst-rsn.fst
+dns
+
 
 //krx rft flt ast^k:tsk 
-srd
-rns
-rdn
-~ksr~ixr^l
+//srd
+//rns
+//rdn
+//~ksr~ixr^l

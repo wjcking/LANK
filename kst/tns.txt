@@ -1,7 +1,7 @@
 kns.krt.knt //kkt
 ktr //kdr
 	trk:tsk
-		kfs//fst:krf.krk.krs
+		kfs:fst//krs:krf.krk
 		
 		kit
 		kiz //kaz kast kdrz

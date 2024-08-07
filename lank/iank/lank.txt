@@ -7,5 +7,4 @@ irk
 	*ink.lnd.land //k
 	*/
 	lank
-	//knt
 ilk
