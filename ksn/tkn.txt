@@ -2,4 +2,4 @@ lank.ist-s
 stk //skr.itr-kl	skt
 
 tkn.kns	//tnk.kast
-ktn:kts	//stk.tsk:tsn
+kts:ktn	//stk.tsk:tsn

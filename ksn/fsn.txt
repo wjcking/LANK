@@ -1,7 +1,8 @@
 ﻿ksn
 
-kst
-	trx
-	//b.l.f
-	krs
-bsk
+//trx:kst
+trs
+
+//bsk:b.l.f 
+//txk
+krs
