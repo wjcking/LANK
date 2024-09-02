@@ -5,7 +5,7 @@ tsn.ist.lank
 trx:trs.tls //bls.txs
 trk //bsk:kiz:kfs
 
-[lik:rsk^v]
+[lsd:rsk^v]
 fsn.ksn.kst
 
 [vsk.rdn:rsk^vd]
@@ -15,9 +15,9 @@ dsn
 	//dws.rst-rsn.fst
 dns
 
-
-//krx rft flt ast^k:tsk 
+[lik:tsn]
 //srd
+//	krx rft flt ast^k:tsk 
 //rns
 //rdn
 //~ksr~ixr^l

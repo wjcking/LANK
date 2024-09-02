@@ -6,5 +6,5 @@ irk
 	*	its~lnks //a
 	*ink.lnd.land //k
 	*/
-	lank
+	<lank>
 ilk
