@@ -4,6 +4,6 @@ ktr //kdr
 		kfs:fst//krs:krf.krk
 		
 		kit
-		kiz //kaz kast kdrz kazd
+		kiz //kaz kast kdrz
 	knt
 krt-klt //kld

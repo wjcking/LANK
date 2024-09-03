@@ -5,19 +5,20 @@ tsn.ist.lank
 trx:trs.tls //bls.txs
 trk //bsk:kiz:kfs
 
-[lsd:rsk^v]
+[lsd:rsk^v-tsn]
 fsn.ksn.kst
 
-[vsk.rdn:rsk^vd]
+[vsk:tsn:rsk^vd]
 dsn
 	//dms.pst.knt.kzn 
 	//mds-fst
 	//dws.rst-rsn.fst
 dns
 
-[lik:tsn]
-//srd
+[lik:rdn:dsn]
+//rdn
+//	~KSR-
+//	~ksn~ixr^l
 //	krx rft flt ast^k:tsk 
 //rns
-//rdn
-//~ksr~ixr^l
+//srd.trs
