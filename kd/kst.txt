@@ -1,4 +1,4 @@
-﻿lank
+﻿lst:lank //lsd
 
 irk.ilk.ist
 
@@ -10,7 +10,7 @@ trs.bls
 	kvn:tvn^u
 	kit
 
-	irk:ilk
+	<irk:ilk>
 
 	kiz //kaz kast
 	kfs //fank:krf
