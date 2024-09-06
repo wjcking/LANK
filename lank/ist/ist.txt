@@ -1,6 +1,5 @@
 ﻿/*
-*itls:i=s=t
-*ibt-tbk
+*ITLS:I=S=T
 */
 ist.its.ats
 

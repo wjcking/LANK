@@ -1,4 +1,4 @@
-﻿tsk:isk
+﻿isk:stk
 t:s.i
 	t
 	k

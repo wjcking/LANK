@@ -1,9 +1,18 @@
-kns.krt.knt //kkt
+kns.krt:knt //kkt
+
+ist:stk
 ktr //kdr
-	trk:tsk
-		kfs:fst//krs:krf.krk
+	<stk:kts>
+	<tsk:kst>
+	trk
+		//krs:krf.krk
+		kfs:fst
+
+		//ist~vst-itl
+		//ktl:ksl:ktr~kdr
+		kt
 		
-		kit
-		kiz //kaz kast kdrz
+		//kaz kast kdrz
+		kiz 
 	knt
 krt-klt //kld

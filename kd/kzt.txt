@@ -1,7 +1,4 @@
-﻿kde.kb.nr
-
-kst.tsk
-kst^k //knk
+﻿kst.kns:tns
 
 //s.z v
 kzt
@@ -13,6 +10,9 @@ tzk
 	tu
 	tn
 tks
+
+kst^k //knk
+//kb^nr:kde
 
 
 
