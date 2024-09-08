@@ -16,9 +16,9 @@ dsn
 dns
 
 [lik:rdn:dsn]
+//srd.trs
 //rdn
 //	~KSR-
 //	~ksn~ixr^l
 //	krx rft flt ast^k:tsk 
 //rns
-//srd.trs
