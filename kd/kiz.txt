@@ -4,11 +4,11 @@ kiz:kst
 kiz:kst-knt 
 kiz.kns:knt //kmt
 
-kiz 
+kiz
 	tvn
 		knv
 		knu
-		kit
+		kt
 		kunz // kun:tlz	
 	kvt
-kaz
+kns

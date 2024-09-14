@@ -1,13 +1,12 @@
-﻿knt.trk
+﻿tns
 
-trk.ktr
-	l.irk.ilk
-	l.iank.tsn
-	l.tsk.i
-	n:h.z.l //kmt-i.pst.knt.aln3
-
-	kzt
-	kns //knk
+trk:ktr
+	l:irk:ilk
+	l:iank.tsn
+	l:tsk-i
+	n:h.z.l //kmt~i.pst.knt.aln3
+	
+	kns
 		l:k:t:kiz //kaz kast
-	klt
+	kzt-klt
 krt

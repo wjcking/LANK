@@ -15,5 +15,5 @@ trs.bls
 	kiz //kaz kast
 	kfs //fank:krf
 
-	kunz //mwz:knk
+	kunz //knt:mwz
 tsi-lst //tsi.itr.tsr^i tsl

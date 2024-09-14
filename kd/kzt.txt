@@ -4,12 +4,12 @@
 kzt
 	ku
 	kn
-kts.stk
+kts
 
 tzk
 	tu
 	tn
-kzt //ktz.stk:kts
+kzt //ktz
 
 kst^k //knk
 
