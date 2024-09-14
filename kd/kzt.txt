@@ -9,9 +9,10 @@ kts.stk
 tzk
 	tu
 	tn
-tks
+kzt //ktz.stk:kts
 
 kst^k //knk
+
 //kb^nr:kde
 
 
