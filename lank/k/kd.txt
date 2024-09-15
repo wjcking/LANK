@@ -1,5 +1,6 @@
 ﻿-kd~ //KSN:VST
 ~kd-kst
+
 kde.kast
 kd^ets //tsk.kst.kd
 kst^nts:rns:tsn
