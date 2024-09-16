@@ -1,10 +1,9 @@
 ﻿-kd~ //KSN:VST
 ~kd-kst
 
-kde.kast
 kd^ets //tsk.kst.kd
-kst^nts:rns:tsn
-ksn^jts:rsn//tsr:rst vn un w
+kst^nts:tsn //rns
+ksn^zts:rsn //jts tsr:rst vn un w
 
 tsr
 //rsn:rns:srt
@@ -14,3 +13,4 @@ tsr
 tsn:dsn
 
 //srt^gts^sh:kts~ksn
+//kde.kast

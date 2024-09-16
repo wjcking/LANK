@@ -1,6 +1,6 @@
-﻿ksn
+﻿lsd-kst:ksn
 
-//trx:kst
+//trx
 trs
 
 //bsk:b.l.f 

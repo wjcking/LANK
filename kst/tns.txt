@@ -3,7 +3,7 @@ kns.krt:knt //kkt
 ist:stk
 ktr //kdr
 	<kst:tsk>
-	<stk:kts>
+	<skt:stk>
 	trk
 		//krs:krf.krk
 		kfs:fst
