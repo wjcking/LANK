@@ -3,4 +3,4 @@ kns.krt
 
 kfs:krs~krf
 fank //fenk fant
-fand~itf//AFD~KTS
+fand~itf//AFD

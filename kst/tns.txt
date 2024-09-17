@@ -1,4 +1,5 @@
 kns.krt:knt //kkt
+//lst-lsd
 
 ist:stk
 ktr //kdr
