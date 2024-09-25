@@ -15,7 +15,7 @@ dsn
 	//dws.rst-rsn.fst
 dns
 
-[lik:rdn:dsn]
+[lik:rdn:dst]
 //srd.trs
 //rdn
 //	~KSR-
