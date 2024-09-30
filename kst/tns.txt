@@ -1,10 +1,11 @@
-kns.krt:knt //kkt
-//lst-lsd
+kns.krt:knt
+rsk.vsd //rst^kvt^d!
+lst-lsd
 
 ist:stk
-ktr //kdr
-	<kst:tsk>
-	<skt:stk>
+ktr~kdr
+	<kst:tsk~fsk-dst>
+	<skt:stk-kkt~fst>
 	trk
 		//krs:krf.krk
 		kfs:fst
@@ -16,4 +17,4 @@ ktr //kdr
 		//kaz kast kdrz
 		kiz 
 	knt
-krt-klt //kld
+krt-klt:kld
