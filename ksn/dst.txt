@@ -6,7 +6,7 @@ trx:trs.tls //bls.txs
 trk //bsk:kiz:kfs
 
 [lsd:rsk^v-tsn]
-fsn~ksn.kst
+fsn~ksn
 
 [vsk:tsn:rsk^vd]
 dsn

@@ -3,7 +3,7 @@
 irk 
 	/*
 	*ist.ink-lnk //l
-	*	its~lnks //a
+	*	its~inks //a
 	*ink.lnd.land //k
 	*/
 	<lank>

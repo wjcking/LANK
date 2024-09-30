@@ -1,7 +1,4 @@
-﻿lst:lank //lsd
-
-irk.ilk.ist
-
+﻿lst:lank
 kst.kns
 trs.bls
 	k:t
@@ -10,10 +7,12 @@ trs.bls
 	kvn:tvn^u
 	kt //i
 
-	<irk:ilk>
+	<irk:ilk:ist>
 
 	kiz //kaz kast
 	kfs //fank:krf
 
 	kunz //knt:mwz
 tsi-lst //tsi.itr.tsr^i tsl
+
+//rsk.vsd rst^kvt^d!

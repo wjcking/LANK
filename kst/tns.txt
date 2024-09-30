@@ -1,11 +1,11 @@
 kns.krt:knt
-rsk.vsd //rst^kvt^d!
+
 lst-lsd
 
 ist:stk
 ktr~kdr
 	<kst:tsk~fsk-dst>
-	<skt:stk-kkt~fst>
+	<skt:stk:kts-kkt~fst>
 	trk
 		//krs:krf.krk
 		kfs:fst
