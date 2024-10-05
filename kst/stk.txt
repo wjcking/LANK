@@ -12,5 +12,6 @@ kst.fst
 
 	//nst
 	tut 
-kri~lst
+	tri~k-isk
+kri~isk-l
 
