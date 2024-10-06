@@ -5,12 +5,11 @@ trs.trk
 ~rst-vst!
 
 kst.fst
-	tsr:itr//ft.fk
-	//trt^ar TARTE
+	tsr:itr
 	trt^ri
+		trf.tfs.kfs //tsf
 		//tuk^luk
-
-	//nst
+		//nst
 	tut 
 	tri~k-isk
 kri~isk-l
