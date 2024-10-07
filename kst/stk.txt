@@ -8,9 +8,9 @@ kst.fst
 	tsr:itr
 	trt^ri
 		trf.tfs.kfs //tsf
-		//tuk^luk
-		//nst
-	tut 
+		//tuk^luk:nzd.vct
+		//nst:tsn
+	~tut 
 	tri~k-isk
 kri~isk-l
 
