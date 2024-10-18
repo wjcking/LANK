@@ -1,4 +1,10 @@
-﻿~
+﻿*\
+*NOTIES^C&
+*BELOW IS A SPACE&RETURN  UNKNOWN
+\*
+
+\***\
+~
 //tsi.itr.tsr
 //rst.rkb
 //sit.lst.tvu.vst
