@@ -5,7 +5,7 @@ trx:trs.tls //bls.txs
 trk //bsk:kiz:kfs
 
 [lsd:rsk^v-dsr]
-fsn~ksn
+~txk:fsn~ksn
 
 [vsk^fst:dsr:rsk^vd]
 dsr
