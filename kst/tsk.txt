@@ -7,10 +7,10 @@ t:s.i
 	kt
 ist
 
-trs.itr:tsk
-trk.krt.knt //kmt
-//itr.stk
-trk
+~itr-tsk
+trs
 	krt
+	//itr.stk.kns:tns
+	//knt:kmt
 	ktr
-i.r
+trk

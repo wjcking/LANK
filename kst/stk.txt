@@ -10,7 +10,7 @@ kst.fst
 		trf.tfs.kfs //tsf
 		//tuk^luk:nzd.vct
 		//nst:tsn
-	~tut 
-	tri~k-isk
+		~<tri~k-isk>-
+	~tut
 kri~isk-l
 
