@@ -1,24 +1,24 @@
 ﻿~ksn-vsn-vzs
 -ksn~iank~kst
-tsn.ist.lank
 
 trx:trs.tls //bls.txs
 trk //bsk:kiz:kfs
 
-[lsd:rsk^v-tsn]
+[lsd:rsk^v-dsr]
 fsn~ksn
 
-[vsk:tsn:rsk^vd]
-dsn
+[vsk^fst:dsr:rsk^vd]
+dsr
 	//dms.pst.knt.kzn 
 	//mds-fst
-	//dws.rst-rsn.fst
+	//dnf.rst.fst
 dns
 
-[lik:rdn:dst]
-//srd.trs
-//rdn
+[lik:dst:dsr]
+srd.trs
+rdn.rdf
 //	~KSR-
 //	~ksn~ixr^l
-//	krx rft flt ast^k:tsk 
-//rns
+//	krx rft flt ast^k:tsk
+// ltx:pst.tvx^h
+rns

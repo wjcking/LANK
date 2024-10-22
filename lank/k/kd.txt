@@ -10,7 +10,7 @@ tsr
 //vsd:bst:sld:srd
 //B:lsd^cl.kct
 //bst^d
-tsn:dsn
+tsn:dsr
 
 //srt^gts^sh:kts~ksn
 //kde.kast
