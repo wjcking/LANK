@@ -1,19 +1,21 @@
-﻿tsn:itr
+﻿srt
 
 dsr
 	its^k:kzn
+\\fst
 dns
 
-rts
+tsr
 	(dwf:fwd~dnf)
 	lws
 	wls
+	
+	itl:its^itr:tsi
 	isk:itr:iank
-srt
+rts
 //rst~i-l
-srd
 
+//SRT.SRD:NTS^R
 dnf:tfs.srt
-\\fst.ktn
-
+//TSN
 
