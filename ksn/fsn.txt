@@ -3,7 +3,7 @@
 //trx
 trs
 
-//bsk:f~b.l 
 krs
+~bsk:f~b.l 
 
 //txk

@@ -5,20 +5,25 @@ trx:trs.tls //bls.txs
 trk //bsk:kiz:kfs
 
 [lsd:rsk^v-dsr]
-~txk:fsn~ksn
+kd.ksn.fsn.txk \\ksn~txk:fsn
 
 [vsk^fst:dsr:rsk^vd]
 dsr
-	//dms.pst.knt.kzn 
-	//mds-fst
-	//dnf.rst.fst
+	[dns.nts.dsn]
+	\\rkb~itr~l.rts.dsr
+	\\mts.mds-fst
+	dnf.rst.fst
+	nfs~nts-tsn
+		\\tsm
+		\\dms.pst.knt.kzn
+	fsn
 dns
 
 [lik:dst:dsr]
 srd.trs
 rdn.rdf
-//	~KSR-
-//	~ksn~ixr^l
-//	krx rft flt ast^k:tsk
-// ltx:pst.tvx^h
+\\	~KSR-
+\\	~ksn~ixr^l
+\\	krx rft flt ast^k:tsk
+\\ ltx:pst.tvx^h
 rns
