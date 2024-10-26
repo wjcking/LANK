@@ -9,10 +9,17 @@ trk //bsk:kiz:kfs
 
 [vsk^fst:dsr]
 dsr~rsk^vd
-	[dns.nts.dsn]
+	[dns.nts:dsn]
 	\\rkb~itr~l.rts.dsr
 	\\dsn-mts.mds-fst
-	dnf.rst.fst
+	
+	<fst>
+	\\~srt~rst
+	\\trs.dnt.trd
+	\\tns.dns.dsn
+	\\tsk~tsf.chf.exch^t.ets
+	<tfs>
+	
 	nfs~nts-tsn
 		\\tsm
 		\\dms.pst.knt.kzn

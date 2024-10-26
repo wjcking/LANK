@@ -12,6 +12,8 @@ tsr
 	
 	itl:its^itr:tsi
 	isk:itr:iank
+	
+	//TSL:DWF.LWS.WLS.ITL~ISK
 rts
 //rst~i-l
 
